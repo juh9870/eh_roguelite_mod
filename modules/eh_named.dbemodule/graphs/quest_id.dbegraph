@@ -1,0 +1,234 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 4,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 0,
+          "node": 0
+        },
+        "mappings/eh:quest"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 0
+        },
+        [
+          {
+            "end": 19870,
+            "start": 9870
+          }
+        ]
+      ],
+      [
+        {
+          "input": 2,
+          "node": 0
+        },
+        true
+      ],
+      [
+        {
+          "input": 3,
+          "node": 0
+        },
+        0
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "b08b57ba-b4a7-41dd-b047-fe439814f3c7",
+        "name": "Id",
+        "ty": "String"
+      },
+      {
+        "id": "b23cc842-4a60-4b48-ac1e-9322a6a455c2",
+        "name": "Quest",
+        "ty": {
+          "Object": {
+            "ident": "eh:objects/quests/quest_data"
+          }
+        }
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=sys:math/range>"
+                }
+              },
+              "Boolean",
+              {
+                "Object": {
+                  "ident": "sys:mappings/kind"
+                }
+              },
+              "String"
+            ],
+            [
+              "Number"
+            ]
+          ],
+          "id": "mappings",
+          "open": true,
+          "pos": {
+            "x": -162.5,
+            "y": -166
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "b08b57ba-b4a7-41dd-b047-fe439814f3c7",
+              "b23cc842-4a60-4b48-ac1e-9322a6a455c2"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -370.5,
+            "y": 96
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "8f7327aa-60a9-41fc-83e5-052e7bb956fd"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 326.5,
+            "y": 70
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "Id",
+              "Data"
+            ],
+            "id": "eh:objects/quests/quest"
+          },
+          "id": "struct_node",
+          "open": true,
+          "pos": {
+            "x": 163.5,
+            "y": 73
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "id"
+            ],
+            "id": "sys:ids/numeric<Id='eh:objects/quests/quest'>"
+          },
+          "id": "struct_node",
+          "open": true,
+          "pos": {
+            "x": -162.5,
+            "y": 48
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "8f7327aa-60a9-41fc-83e5-052e7bb956fd",
+        "name": "Quest",
+        "ty": {
+          "Object": {
+            "ident": "eh:objects/quests/quest"
+          }
+        }
+      }
+    ],
+    "regions": []
+  },
+  "id": "e5625d5d-0207-4ba2-aa39-5f2d82dfafef",
+  "is_node_group": true,
+  "name": "Quest Id",
+  "version": "V1"
+}

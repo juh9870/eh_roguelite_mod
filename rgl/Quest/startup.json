@@ -1,0 +1,19 @@
+{
+  "Id": 10000,
+  "ItemType": 15,
+  "Name": "Startup",
+  "Nodes": [
+    {
+      "DefaultTransition": 4,
+      "Id": 1,
+      "Quest": 10001,
+      "Type": 43
+    },
+    {
+      "Id": 4,
+      "Type": 42
+    }
+  ],
+  "StartCondition": 4,
+  "Weight": 1
+}

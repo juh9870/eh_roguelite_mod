@@ -1,0 +1,202 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 1
+        },
+        {
+          "input": 4,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 2
+        },
+        {
+          "input": 3,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 0
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 1,
+          "node": 0
+        },
+        [
+          {
+            "end": 1000,
+            "start": 2
+          }
+        ]
+      ],
+      [
+        {
+          "input": 2,
+          "node": 0
+        },
+        true
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "bb63bd9c-e4be-4ab3-88c1-6ef02791f99a",
+        "name": "Quest Id",
+        "ty": "String"
+      },
+      {
+        "id": "b7380f8d-94bd-4ec8-8a45-7a1a2c8067d8",
+        "name": "Node Id",
+        "ty": "String"
+      },
+      {
+        "id": "4a08a1c6-1243-4f7b-88bc-6e77f0db0743",
+        "name": "Kind",
+        "ty": {
+          "Object": {
+            "ident": "sys:mappings/kind"
+          }
+        }
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=sys:math/range>"
+                }
+              },
+              "Boolean",
+              {
+                "Object": {
+                  "ident": "sys:mappings/kind"
+                }
+              },
+              "String"
+            ],
+            [
+              "Number"
+            ]
+          ],
+          "id": "mappings",
+          "open": true,
+          "pos": {
+            "x": -114.5,
+            "y": -69
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "bb63bd9c-e4be-4ab3-88c1-6ef02791f99a",
+              "b7380f8d-94bd-4ec8-8a45-7a1a2c8067d8",
+              "4a08a1c6-1243-4f7b-88bc-6e77f0db0743"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -555.5,
+            "y": 35
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "29655ee3-dba3-4ec1-8a6b-d9b37386bd35"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 206.5,
+            "y": -47
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "format": "mappings/eh:quest@{quest}",
+            "keys": [
+              "quest"
+            ]
+          },
+          "id": "string_fmt",
+          "open": true,
+          "pos": {
+            "x": -407.0089111328125,
+            "y": -86.12722778320312
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "29655ee3-dba3-4ec1-8a6b-d9b37386bd35",
+        "name": "Node Id",
+        "ty": "Number"
+      }
+    ],
+    "regions": []
+  },
+  "id": "3c527845-732d-4318-976d-46c45b6be545",
+  "is_node_group": true,
+  "name": "Quest Node Id",
+  "version": "V1"
+}

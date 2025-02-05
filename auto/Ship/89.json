@@ -1,0 +1,34 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5
+      }
+    }
+  ],
+  "EngineColor": "#40B4FFB4",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
+  "Faction": 4,
+  "Features": {
+    "BuiltinDevices": [
+      18
+    ],
+    "Regeneration": true
+  },
+  "IconImage": "drone4",
+  "IconScale": 0.5,
+  "Id": 89,
+  "ItemType": 6,
+  "Layout": "040121050",
+  "ModelImage": "drone4",
+  "ModelScale": 0.5,
+  "Name": "Drone",
+  "ShipType": 1
+}

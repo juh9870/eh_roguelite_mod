@@ -1,0 +1,179 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 1,
+          "node": 0
+        },
+        "FAIL"
+      ],
+      [
+        {
+          "input": 2,
+          "node": 0
+        },
+        0
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "0d528b04-3b87-4689-a5c6-9c0317a06e4b",
+        "name": "Quest Id",
+        "ty": "String"
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "3c527845-732d-4318-976d-46c45b6be545",
+            "input_types": [
+              "String",
+              "String",
+              {
+                "Object": {
+                  "ident": "sys:mappings/kind"
+                }
+              }
+            ],
+            "inputs": [
+              "bb63bd9c-e4be-4ab3-88c1-6ef02791f99a",
+              "b7380f8d-94bd-4ec8-8a45-7a1a2c8067d8",
+              "4a08a1c6-1243-4f7b-88bc-6e77f0db0743"
+            ],
+            "output_types": [
+              "Number"
+            ],
+            "outputs": [
+              "29655ee3-dba3-4ec1-8a6b-d9b37386bd35"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": -348.5,
+            "y": -9
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "0d528b04-3b87-4689-a5c6-9c0317a06e4b"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -531.5,
+            "y": -79
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "7465c2d9-bad3-4f08-bf14-683436837101"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 38.5,
+            "y": -86.5
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "QuestId",
+              "NodeId"
+            ],
+            "id": "questflow:node_id"
+          },
+          "id": "struct_node",
+          "open": true,
+          "pos": {
+            "x": -117,
+            "y": -95.5
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "7465c2d9-bad3-4f08-bf14-683436837101",
+        "name": "Node Id",
+        "ty": {
+          "Object": {
+            "ident": "questflow:node_id"
+          }
+        }
+      }
+    ],
+    "regions": []
+  },
+  "id": "c77948f3-70cc-4b3d-94e5-4b9c241cdde6",
+  "is_node_group": true,
+  "name": "Fail Quest",
+  "version": "V1"
+}

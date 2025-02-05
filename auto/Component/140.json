@@ -1,0 +1,28 @@
+{
+  "AmmunitionId": 59,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#F0FFFF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 6,
+  "Icon": "doom1",
+  "Id": 140,
+  "ItemType": 1,
+  "Layout": "1111",
+  "Level": 20,
+  "Name": "$Pulsar_M_1",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 59,
+  "WeaponSlotType": "S"
+}

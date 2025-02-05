@@ -1,0 +1,34 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.75
+      }
+    }
+  ],
+  "EngineColor": "#40FF00CB",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.3
+      },
+      "Size": 0.3
+    }
+  ],
+  "Faction": 17,
+  "Features": {
+    "EquipmentWeightBonus": -0.5,
+    "ShipWeightBonus": -0.5,
+    "TurnRateBonus": 1,
+    "VelocityBonus": 1
+  },
+  "IconImage": "bat",
+  "IconScale": 1,
+  "Id": 128,
+  "ItemType": 6,
+  "Layout": "000000000000000000000000000000000000444000000000000444000000000002444200000000032222230000000132222231000001332555233100011135555531110011100555001110111000000000111110000000000011100000000000001000000000000000000000000000000",
+  "ModelImage": "bat",
+  "ModelScale": 2.5,
+  "Name": "$ship_bat",
+  "SizeClass": 2
+}

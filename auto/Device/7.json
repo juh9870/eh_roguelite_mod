@@ -1,0 +1,12 @@
+{
+  "ActivationType": 1,
+  "Color": "#C04A4CFF",
+  "ControlButtonIcon": "controls_laser",
+  "Cooldown": 4,
+  "DeviceClass": 13,
+  "EnergyConsumption": 1,
+  "Id": 7,
+  "ItemType": 2,
+  "PassiveEnergyConsumption": 2,
+  "Sound": "hit_04"
+}

@@ -1,0 +1,44 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 80,
+      "Image": "scavenger_arm",
+      "Position": {
+        "x": 0.6,
+        "y": -0.4
+      },
+      "Size": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.6
+      },
+      "Rotation": 10,
+      "WeaponClass": "T"
+    }
+  ],
+  "EngineColor": "#40FF7F00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.3
+    }
+  ],
+  "Faction": 15,
+  "Features": {
+    "ArmorBonus": 0.5
+  },
+  "IconImage": "fs2",
+  "IconScale": 0.9,
+  "Id": 116,
+  "ItemType": 6,
+  "Layout": "0000333444000000033334443000000433344430000044333333330000443333333300004433333333000004333333300000003333330000000003333000000000033330000000000333300000000005555000000000555555000000000555500000",
+  "ModelImage": "fs2",
+  "ModelScale": 1.8,
+  "Name": "$f15_Cruiser",
+  "SizeClass": 2
+}

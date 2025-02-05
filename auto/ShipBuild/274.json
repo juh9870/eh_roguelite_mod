@@ -1,0 +1,49 @@
+{
+  "Components": [
+    {
+      "ComponentId": 61,
+      "X": 6,
+      "Y": 13
+    },
+    {
+      "ComponentId": 62,
+      "KeyBinding": 1,
+      "X": 4,
+      "Y": 1
+    },
+    {
+      "ComponentId": 62,
+      "KeyBinding": 1,
+      "X": 5,
+      "Y": 4
+    },
+    {
+      "ComponentId": 120,
+      "KeyBinding": 1,
+      "X": 7
+    },
+    {
+      "ComponentId": 75,
+      "KeyBinding": 2,
+      "X": 5,
+      "Y": 7
+    },
+    {
+      "BarrelId": 2,
+      "ComponentId": 221,
+      "KeyBinding": 2,
+      "X": 11,
+      "Y": 5
+    },
+    {
+      "BarrelId": 1,
+      "ComponentId": 221,
+      "KeyBinding": 2,
+      "X": 3,
+      "Y": 5
+    }
+  ],
+  "Id": 274,
+  "ItemType": 8,
+  "ShipId": 117
+}

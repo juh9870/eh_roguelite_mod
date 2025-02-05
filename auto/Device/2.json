@@ -1,0 +1,8 @@
+{
+  "ControlButtonIcon": "controls_shield",
+  "DeviceClass": 11,
+  "Id": 2,
+  "ItemType": 2,
+  "PassiveEnergyConsumption": 1,
+  "Power": 5
+}

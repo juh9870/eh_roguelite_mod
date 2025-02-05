@@ -1,0 +1,30 @@
+{
+  "Body": {
+    "BulletPrefab": 9,
+    "Color": "#C345FF",
+    "EnergyCost": 30,
+    "Range": 30,
+    "Size": 1,
+    "Velocity": 10,
+    "Weight": 100
+  },
+  "Id": 145,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 146,
+      "AudioClip": "launch_04",
+      "Condition": 2,
+      "EffectType": 2,
+      "OffsetX": "0",
+      "Rotation": "0",
+      "Size": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "Size": 4,
+      "VisualEffect": 18
+    }
+  ]
+}

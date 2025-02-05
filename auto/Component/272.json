@@ -1,0 +1,23 @@
+{
+  "AmmunitionId": 125,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#80FF80",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 13,
+  "Icon": "cannon_1x4",
+  "Id": 272,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 100,
+  "Name": "$RepairBeam_L_1",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 102,
+  "WeaponSlotType": "L"
+}

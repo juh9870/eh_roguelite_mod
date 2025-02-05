@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 102,
+  "Availability": 2,
+  "CellType": "4",
+  "Color": "#3FE9FF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 15,
+  "Icon": "shock1",
+  "Id": 250,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 200,
+  "Name": "$HeavyLightningCannon",
+  "PossibleModifications": [
+    6,
+    5,
+    16,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 100,
+  "WeaponSlotType": "L"
+}

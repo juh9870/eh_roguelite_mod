@@ -1,0 +1,18 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#FFFFA0",
+  "ComponentStatsId": 160,
+  "DisplayCategory": 6,
+  "Faction": 8,
+  "Icon": "range1",
+  "Id": 160,
+  "ItemType": 1,
+  "Layout": "010110110",
+  "Level": 90,
+  "Name": "$RangemasterUnit_M",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

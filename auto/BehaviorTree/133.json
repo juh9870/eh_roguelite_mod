@@ -1,0 +1,14 @@
+{
+  "Id": 133,
+  "ItemType": 28,
+  "RootNode": {
+    "ExecutionMode": 3,
+    "Node": {
+      "Type": 104
+    },
+    "Requirement": {
+      "Type": 12
+    },
+    "Type": 8
+  }
+}

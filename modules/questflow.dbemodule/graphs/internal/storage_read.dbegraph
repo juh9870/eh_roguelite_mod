@@ -1,0 +1,245 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 5
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 2
+        },
+        {
+          "input": 2,
+          "node": 2
+        }
+      ]
+    ],
+    "inline_values": [],
+    "inputs": [
+      {
+        "id": "11a08be6-87df-4de4-a02c-93d831b76207",
+        "name": "Quest Id",
+        "ty": "String"
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "b72f6cdc-5e2a-44be-bfdb-5aba63281989",
+            "input_types": [
+              "String"
+            ],
+            "inputs": [
+              "845832ec-4067-4259-8e67-e9fd0336f06a"
+            ],
+            "output_types": [
+              "String"
+            ],
+            "outputs": [
+              "51498dde-9db4-4b92-8888-0f26986ddb16"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": -579.47265625,
+            "y": -123.74713897705078
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "11a08be6-87df-4de4-a02c-93d831b76207"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -772.8433837890625,
+            "y": -86.12118530273438
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "3883d208-cf34-4f51-8416-73ccbdbe17db",
+              "ace81d5a-c545-4ad8-a697-270af039f271",
+              "f1cbd99a-f766-453b-b5f3-97f7bf71d6cb"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 343.5,
+            "y": -96.5
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "String"
+            ],
+            [
+              "Unknown"
+            ]
+          ],
+          "id": "get_transistent_value",
+          "open": true,
+          "pos": {
+            "x": -207.87234497070312,
+            "y": -98.2511978149414
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "questflow:quest"
+                }
+              }
+            ]
+          ],
+          "id": "as_type",
+          "open": true,
+          "pos": {
+            "x": 39.5,
+            "y": -107.5
+          }
+        }
+      ],
+      [
+        5,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "Id",
+              "StartNodeId",
+              "Nodes"
+            ],
+            "id": "questflow:quest"
+          },
+          "id": "destructuring",
+          "open": true,
+          "pos": {
+            "x": 183.5,
+            "y": -106.5
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "3883d208-cf34-4f51-8416-73ccbdbe17db",
+        "name": "Quest Id",
+        "ty": "String"
+      },
+      {
+        "id": "ace81d5a-c545-4ad8-a697-270af039f271",
+        "name": "Start Node Id",
+        "ty": "String"
+      },
+      {
+        "id": "f1cbd99a-f766-453b-b5f3-97f7bf71d6cb",
+        "name": "Nodes",
+        "ty": {
+          "List": {
+            "id": "List<Item=eh:objects/quests/node>"
+          }
+        }
+      }
+    ],
+    "regions": []
+  },
+  "id": "cafc4eae-2223-473c-b0f5-76433455beba",
+  "is_node_group": true,
+  "name": "[Internal] QuestFlow Storage Read",
+  "version": "V1"
+}

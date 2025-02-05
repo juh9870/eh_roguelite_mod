@@ -1,0 +1,13 @@
+{
+  "Elements": [
+    {
+      "GrowthRate": 0.5,
+      "Image": "CloudWhite",
+      "Quantity": 3,
+      "TurnRate": 30,
+      "Type": 3
+    }
+  ],
+  "Id": 6,
+  "ItemType": 26
+}

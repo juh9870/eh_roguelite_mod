@@ -1,0 +1,44 @@
+{
+  "Body": {
+    "AiBulletBehavior": 3,
+    "AttachedToParent": true,
+    "BulletPrefab": 18,
+    "Lifetime": 1,
+    "Size": 2,
+    "Weight": 0.5
+  },
+  "Controller": {
+    "Type": 5
+  },
+  "Effects": [
+    {
+      "Power": 500
+    },
+    {
+      "Type": 13
+    }
+  ],
+  "Id": 135,
+  "ImpactType": 2,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "AudioClip": "hit_07",
+      "ColorMode": 1,
+      "Condition": 3,
+      "Cooldown": 0.1,
+      "EffectType": 4,
+      "Lifetime": 0.5,
+      "Size": 3,
+      "VisualEffect": 11
+    },
+    {
+      "ColorMode": 1,
+      "Condition": 3,
+      "EffectType": 1,
+      "Lifetime": 0.5,
+      "Size": 1,
+      "VisualEffect": 1
+    }
+  ]
+}

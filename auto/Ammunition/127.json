@@ -1,0 +1,33 @@
+{
+  "Body": {
+    "Color": "#FF0000",
+    "EnergyCost": 1,
+    "FriendlyFire": true,
+    "Lifetime": 0.5,
+    "ParentVelocityEffect": 0,
+    "Size": 1
+  },
+  "Effects": [
+    {
+      "Power": 2,
+      "Type": 3
+    },
+    {
+      "Power": 1,
+      "Type": 11
+    },
+    {
+      "Type": 12
+    }
+  ],
+  "Id": 127,
+  "ImpactType": 1,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 9
+    }
+  ]
+}

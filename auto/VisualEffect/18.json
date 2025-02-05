@@ -1,0 +1,14 @@
+{
+  "Elements": [
+    {
+      "Color": "#000000",
+      "Image": "wave",
+      "Inverse": true,
+      "Loop": true,
+      "Type": 2,
+      "UseRealTime": true
+    }
+  ],
+  "Id": 18,
+  "ItemType": 26
+}

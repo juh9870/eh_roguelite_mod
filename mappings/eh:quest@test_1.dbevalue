@@ -1,0 +1,19 @@
+{
+  "ty": {
+    "Object": {
+      "ident": "sys:mappings/storage"
+    }
+  },
+  "value": {
+    "ranges": [
+      {
+        "end": 1000,
+        "start": 2
+      }
+    ],
+    "values": {
+      "START": 1,
+      "combat": 2
+    }
+  }
+}

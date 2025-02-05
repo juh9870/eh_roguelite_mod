@@ -1,0 +1,24 @@
+{
+  "AmmunitionId": 29,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FFFFC0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 1,
+  "Icon": "laser3",
+  "Id": 124,
+  "ItemType": 1,
+  "Layout": "010010010",
+  "Level": 30,
+  "Name": "$LaserCannon_M_1",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 29,
+  "WeaponSlotType": "L"
+}

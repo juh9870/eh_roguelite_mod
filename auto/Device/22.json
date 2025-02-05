@@ -1,0 +1,13 @@
+{
+  "ActivationType": 2,
+  "Color": "#FFC6F4",
+  "ControlButtonIcon": "controls_drone",
+  "Cooldown": 30,
+  "DeviceClass": 16,
+  "EffectPrefab": "OrbAdditive",
+  "Id": 22,
+  "ItemType": 2,
+  "PassiveEnergyConsumption": 2,
+  "Size": 2,
+  "Sound": "launch_08"
+}

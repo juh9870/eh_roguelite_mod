@@ -1,0 +1,19 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#C0FFC0",
+  "ComponentStatsId": 3,
+  "DeviceId": 8,
+  "DisplayCategory": 2,
+  "Faction": 2,
+  "Icon": "shield1",
+  "Id": 84,
+  "ItemType": 1,
+  "Layout": "111010000",
+  "Level": 15,
+  "Name": "$FrontalShield",
+  "PossibleModifications": [
+    2,
+    1
+  ]
+}

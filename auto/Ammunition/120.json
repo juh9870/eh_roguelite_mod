@@ -1,0 +1,30 @@
+{
+  "Body": {
+    "AiBulletBehavior": 1,
+    "BulletPrefab": 1,
+    "CanBeDisarmed": true,
+    "Color": "#B8FF00",
+    "EnergyCost": 10,
+    "Range": 80,
+    "Size": 1.5,
+    "Velocity": 30,
+    "Weight": 0.5
+  },
+  "Controller": {
+    "IgnoreRotation": true,
+    "Type": 1
+  },
+  "Id": 120,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 121,
+      "AudioClip": "explosion_08",
+      "Condition": 2,
+      "EffectType": 2,
+      "PowerMultiplier": 8,
+      "Quantity": 1,
+      "Size": 5
+    }
+  ]
+}

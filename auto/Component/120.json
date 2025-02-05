@@ -1,0 +1,23 @@
+{
+  "AmmunitionId": 149,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FFFFC0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 8,
+  "Icon": "laser4",
+  "Id": 120,
+  "ItemType": 1,
+  "Layout": "111111111",
+  "Level": 115,
+  "Name": "$LaserBeam_L_2",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 25,
+  "WeaponSlotType": "L"
+}

@@ -1,0 +1,34 @@
+{
+  "Id": 108,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Color": "#C0C0FF80",
+        "Text": "$Whining1",
+        "Type": 300
+      },
+      {
+        "Color": "#C0C0FF80",
+        "Text": "$Whining2",
+        "Type": 300
+      },
+      {
+        "Color": "#C0C0FF80",
+        "Text": "$Whining3",
+        "Type": 300
+      },
+      {
+        "Color": "#C0C0FF80",
+        "Text": "$Whining4",
+        "Type": 300
+      },
+      {
+        "Color": "#C0C0FF80",
+        "Text": "$Whining5",
+        "Type": 300
+      }
+    ],
+    "Type": 5
+  }
+}

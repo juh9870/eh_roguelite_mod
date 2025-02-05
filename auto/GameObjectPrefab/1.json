@@ -1,0 +1,14 @@
+{
+  "Angle1": 30,
+  "Angle2": 60,
+  "Id": 1,
+  "Image1": "worm_segment",
+  "Image2": "worm_joint",
+  "ImageOffset": 0.5,
+  "ImageScale": 0.5,
+  "ItemType": 29,
+  "Length": 0.4,
+  "Offset1": 0.5,
+  "Offset2": 0.15,
+  "Type": 1
+}

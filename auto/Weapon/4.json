@@ -1,0 +1,10 @@
+{
+  "ActivationType": 1,
+  "ChargeSound": "shot_06",
+  "ControlButtonIcon": "controls_mine",
+  "FireRate": 0.15,
+  "Id": 4,
+  "ItemType": 3,
+  "ShotEffectPrefab": "Charge2",
+  "WeaponClass": 5
+}

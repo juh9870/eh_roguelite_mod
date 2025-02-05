@@ -1,0 +1,30 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1
+      }
+    }
+  ],
+  "EngineColor": "#40E0E0FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Features": {
+    "KineticResistance": 9
+  },
+  "IconImage": "fns1",
+  "IconScale": 0.5,
+  "Id": 72,
+  "ItemType": 6,
+  "Layout": "000040000000444000002242200002222200001222100011222110111222111011555110000555000",
+  "ModelImage": "fns1_2",
+  "ModelScale": 1.1,
+  "Name": "$fn_Scout2",
+  "ShipRarity": 2
+}

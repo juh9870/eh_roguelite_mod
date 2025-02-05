@@ -1,0 +1,17 @@
+{
+  "Availability": 1,
+  "CellType": "1",
+  "ComponentStatsId": 8,
+  "DisplayCategory": 2,
+  "Faction": 4,
+  "Icon": "armor22",
+  "Id": 5,
+  "ItemType": 1,
+  "Layout": "1111",
+  "Level": 30,
+  "Name": "$ImpactArmor_M",
+  "PossibleModifications": [
+    1,
+    3
+  ]
+}

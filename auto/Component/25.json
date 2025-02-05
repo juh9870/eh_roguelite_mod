@@ -1,0 +1,19 @@
+{
+  "CellType": "2",
+  "Color": "#00FF21",
+  "ComponentStatsId": 3,
+  "DeviceId": 17,
+  "DisplayCategory": 6,
+  "Faction": 4,
+  "Icon": "teleporter1",
+  "Id": 25,
+  "ItemType": 1,
+  "Layout": "010111010",
+  "Name": "$Teleporter_Boss",
+  "PossibleModifications": [
+    2,
+    7,
+    1,
+    6
+  ]
+}

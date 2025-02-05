@@ -1,0 +1,20 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#FFC840",
+  "ComponentStatsId": 3,
+  "DeviceId": 5,
+  "DisplayCategory": 6,
+  "Faction": -1,
+  "Icon": "detonator1",
+  "Id": 31,
+  "ItemType": 1,
+  "Layout": "1111",
+  "Level": 20,
+  "Name": "$Detonator_M",
+  "PossibleModifications": [
+    2,
+    7,
+    1
+  ]
+}

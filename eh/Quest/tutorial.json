@@ -1,0 +1,71 @@
+{
+  "Id": 1,
+  "ItemType": 15,
+  "Name": "$Quest_Tutorial",
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 2
+        }
+      ],
+      "Character": 3,
+      "Id": 1,
+      "Message": "$TUTORIAL_Start",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 3
+        }
+      ],
+      "Character": 3,
+      "Id": 2,
+      "Message": "$TUTORIAL_Info1",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$TUTORIAL_ACTION_Training",
+          "TargetNode": 4
+        },
+        {
+          "ButtonText": "$TUTORIAL_ACTION_Skip",
+          "TargetNode": 5
+        }
+      ],
+      "Character": 3,
+      "Id": 3,
+      "Message": "$TUTORIAL_Training",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 5,
+      "Enemy": 1,
+      "FailureTransition": 3,
+      "Id": 4,
+      "Type": 20
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 6
+        }
+      ],
+      "Character": 3,
+      "Id": 5,
+      "Message": "$TUTORIAL_End",
+      "Type": 10
+    },
+    {
+      "Id": 6,
+      "Type": 40
+    }
+  ],
+  "QuestType": 2
+}

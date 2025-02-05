@@ -1,0 +1,15 @@
+{
+  "ControlButtonIcon": "controls_gear",
+  "Cooldown": 7,
+  "DeviceClass": 22,
+  "Id": 21,
+  "ItemType": 2,
+  "ObjectPrefab": "WormSegment2",
+  "Offset": {
+    "x": 0.45,
+    "y": 0.35
+  },
+  "PassiveEnergyConsumption": 5,
+  "Power": 0.3,
+  "Size": 15
+}

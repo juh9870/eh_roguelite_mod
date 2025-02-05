@@ -1,0 +1,9 @@
+{
+  "Id": 23,
+  "ItemType": 7,
+  "Layout": "0022200022222001222100222220012221002222200022200",
+  "ModelImage": "powerbank",
+  "ModelScale": 1.5,
+  "Name": "$PowerBank",
+  "SizeClass": 4
+}

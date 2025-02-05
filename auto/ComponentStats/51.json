@@ -1,0 +1,9 @@
+{
+  "DroneBuildTimeModifier": 0.025,
+  "DroneDamageModifier": 0.1,
+  "EnergyRechargeRate": -1,
+  "Id": 51,
+  "ItemType": 11,
+  "Type": 1,
+  "Weight": 25
+}

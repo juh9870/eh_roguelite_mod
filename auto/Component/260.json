@@ -1,0 +1,17 @@
+{
+  "Availability": 1,
+  "CellType": "1",
+  "ComponentStatsId": 260,
+  "DisplayCategory": 2,
+  "Faction": 16,
+  "Icon": "armor61",
+  "Id": 260,
+  "ItemType": 1,
+  "Layout": "1",
+  "Level": 5,
+  "Name": "$BionicArmor_S",
+  "PossibleModifications": [
+    3,
+    1
+  ]
+}

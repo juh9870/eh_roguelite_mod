@@ -1,0 +1,1200 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 14
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 2
+        },
+        {
+          "input": 0,
+          "node": 12
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 3
+        },
+        {
+          "input": 0,
+          "node": 17
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 3
+        },
+        {
+          "input": 0,
+          "node": 7
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 8
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 5
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 6
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 2
+        },
+        {
+          "input": 2,
+          "node": 6
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 7
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 6
+        }
+      ],
+      [
+        {
+          "node": 6,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 7,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 8,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 10
+        }
+      ],
+      [
+        {
+          "node": 9,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 13
+        }
+      ],
+      [
+        {
+          "node": 10,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 14
+        }
+      ],
+      [
+        {
+          "node": 10,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 16
+        }
+      ],
+      [
+        {
+          "node": 10,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 23
+        }
+      ],
+      [
+        {
+          "node": 11,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 9
+        }
+      ],
+      [
+        {
+          "node": 12,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 11
+        }
+      ],
+      [
+        {
+          "node": 13,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 20
+        }
+      ],
+      [
+        {
+          "node": 13,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 21
+        }
+      ],
+      [
+        {
+          "node": 14,
+          "output": 0
+        },
+        {
+          "input": 2,
+          "node": 13
+        }
+      ],
+      [
+        {
+          "node": 14,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 15
+        }
+      ],
+      [
+        {
+          "node": 15,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 1
+        }
+      ],
+      [
+        {
+          "node": 16,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 15
+        }
+      ],
+      [
+        {
+          "node": 17,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 19
+        }
+      ],
+      [
+        {
+          "node": 18,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 21
+        }
+      ],
+      [
+        {
+          "node": 19,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 23
+        }
+      ],
+      [
+        {
+          "node": 19,
+          "output": 1
+        },
+        {
+          "input": 2,
+          "node": 20
+        }
+      ],
+      [
+        {
+          "node": 20,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 18
+        }
+      ],
+      [
+        {
+          "node": 20,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 24
+        }
+      ],
+      [
+        {
+          "node": 21,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 22
+        }
+      ],
+      [
+        {
+          "node": 22,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 16
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 1,
+          "node": 2
+        },
+        null
+      ],
+      [
+        {
+          "input": 1,
+          "node": 8
+        },
+        "Conditional FlowNode must have transitions"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 9
+        },
+        "Transitions"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 13
+        },
+        "Id"
+      ],
+      [
+        {
+          "input": 2,
+          "node": 14
+        },
+        1
+      ],
+      [
+        {
+          "input": 1,
+          "node": 20
+        },
+        "DefaultTransition"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 22
+        },
+        ""
+      ],
+      [
+        {
+          "input": 2,
+          "node": 23
+        },
+        "Different quests can't be mixed"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 24
+        },
+        ""
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "56589377-1fc8-4598-915f-554e0b928403",
+        "name": "Transitions",
+        "ty": {
+          "List": {
+            "id": "List<Item=questflow:node_transition>"
+          }
+        }
+      },
+      {
+        "id": "2646d2dc-e44b-4fa7-912b-bdb745d684d2",
+        "name": "Node Id",
+        "ty": "String"
+      },
+      {
+        "id": "b7f28015-2a5f-4fa4-b6f2-870f0166e77f",
+        "name": "Node",
+        "ty": {
+          "Object": {
+            "ident": "questflow:nodes/conditional_node"
+          }
+        }
+      },
+      {
+        "id": "d80e48cd-4d7b-4a96-82b8-1d1b80f864b2",
+        "name": "Default Transition Id",
+        "ty": {
+          "Object": {
+            "ident": "sys:optional<Item=questflow:node_id>"
+          }
+        }
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "56589377-1fc8-4598-915f-554e0b928403",
+              "2646d2dc-e44b-4fa7-912b-bdb745d684d2",
+              "b7f28015-2a5f-4fa4-b6f2-870f0166e77f",
+              "d80e48cd-4d7b-4a96-82b8-1d1b80f864b2"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -652.3624267578125,
+            "y": 112.32098388671875
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "09f5110d-2634-467a-a80e-070c9516fea3"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 602.5,
+            "y": 53
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "7ff23083-c330-499f-a607-e63f1bf4683e"
+            ],
+            "kind": "Start",
+            "node": [
+              [
+                {
+                  "Object": {
+                    "ident": "questflow:node_transition"
+                  }
+                }
+              ],
+              [
+                {
+                  "Object": {
+                    "ident": "questflow:node_transition"
+                  }
+                },
+                "Number",
+                "Number"
+              ]
+            ],
+            "region": "311cd0ea-bf30-4187-b6ad-d7a1ec3dee70"
+          },
+          "id": "list_map",
+          "open": true,
+          "pos": {
+            "x": -416.9785461425781,
+            "y": -153.19200134277344
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "7ff23083-c330-499f-a607-e63f1bf4683e"
+            ],
+            "kind": "End",
+            "node": [
+              [
+                {
+                  "Object": {
+                    "ident": "eh:objects/quests/node_transition"
+                  }
+                }
+              ],
+              [
+                {
+                  "Object": {
+                    "ident": "eh:objects/quests/node_transition"
+                  }
+                }
+              ]
+            ],
+            "region": "311cd0ea-bf30-4187-b6ad-d7a1ec3dee70"
+          },
+          "id": "list_map",
+          "open": true,
+          "pos": {
+            "x": 532.5,
+            "y": -135
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "NodeId",
+              "Requirement",
+              "Weight"
+            ],
+            "id": "questflow:node_transition"
+          },
+          "id": "destructuring",
+          "open": true,
+          "pos": {
+            "x": -203.5,
+            "y": -139
+          }
+        }
+      ],
+      [
+        5,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "QuestId",
+              "NodeId"
+            ],
+            "id": "questflow:node_id"
+          },
+          "id": "destructuring",
+          "open": true,
+          "pos": {
+            "x": 14.5,
+            "y": -158
+          }
+        }
+      ],
+      [
+        6,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "TargetNode",
+              "Requirement",
+              "Weight"
+            ],
+            "id": "eh:objects/quests/node_transition"
+          },
+          "id": "struct_node",
+          "open": true,
+          "pos": {
+            "x": 209.5,
+            "y": -118
+          }
+        }
+      ],
+      [
+        7,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "68451c9b-4f82-4110-8cf3-259dfa43b482",
+            "input_types": [
+              {
+                "Object": {
+                  "ident": "sys:optional<Item=string>"
+                }
+              },
+              "String"
+            ],
+            "inputs": [
+              "f4a15aa8-01a2-4c84-9b28-1e054817cc66",
+              "75c06735-bf41-4c3c-9951-470d215cb6d2"
+            ],
+            "output_types": [
+              "String"
+            ],
+            "outputs": [
+              "415dbb4e-895b-4917-9522-f82f895fee7f"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 162.5,
+            "y": -259
+          }
+        }
+      ],
+      [
+        8,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "String",
+              "String"
+            ],
+            [
+              "String"
+            ]
+          ],
+          "id": "unwrap",
+          "open": false,
+          "pos": {
+            "x": -333.5,
+            "y": 66
+          }
+        }
+      ],
+      [
+        9,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "String",
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "Unknown"
+            ]
+          ],
+          "id": "set_field",
+          "open": true,
+          "pos": {
+            "x": -96.5,
+            "y": 288
+          }
+        }
+      ],
+      [
+        10,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": null,
+          "id": "reroute",
+          "open": false,
+          "pos": {
+            "x": -328.5,
+            "y": 106
+          }
+        }
+      ],
+      [
+        11,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ]
+          ],
+          "id": "as_type",
+          "open": false,
+          "pos": {
+            "x": -352.5,
+            "y": 241
+          }
+        }
+      ],
+      [
+        12,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown"
+            ],
+            [
+              "Unknown"
+            ]
+          ],
+          "id": "enum_inner_value",
+          "open": false,
+          "pos": {
+            "x": -354.5,
+            "y": 202
+          }
+        }
+      ],
+      [
+        13,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "String",
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "Unknown"
+            ]
+          ],
+          "id": "set_field",
+          "open": true,
+          "pos": {
+            "x": 163.5,
+            "y": 176
+          }
+        }
+      ],
+      [
+        14,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "3c527845-732d-4318-976d-46c45b6be545",
+            "input_types": [
+              "String",
+              "String",
+              {
+                "Object": {
+                  "ident": "sys:mappings/kind"
+                }
+              }
+            ],
+            "inputs": [
+              "bb63bd9c-e4be-4ab3-88c1-6ef02791f99a",
+              "b7380f8d-94bd-4ec8-8a45-7a1a2c8067d8",
+              "4a08a1c6-1243-4f7b-88bc-6e77f0db0743"
+            ],
+            "output_types": [
+              "Number"
+            ],
+            "outputs": [
+              "29655ee3-dba3-4ec1-8a6b-d9b37386bd35"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": -95.5,
+            "y": 118
+          }
+        }
+      ],
+      [
+        15,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "QuestId",
+              "NodeId"
+            ],
+            "id": "questflow:node_id"
+          },
+          "id": "struct_node",
+          "open": true,
+          "pos": {
+            "x": 435.5,
+            "y": 47
+          }
+        }
+      ],
+      [
+        16,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "a79671e1-1b6c-4130-b7de-f841ddada99f",
+            "input_types": [
+              "String",
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ],
+            "inputs": [
+              "71ab20c3-15e3-4c62-9d90-1909a9058c96",
+              "55977859-be30-4c67-a174-d0cb1f5c4841"
+            ],
+            "output_types": [
+              "String"
+            ],
+            "outputs": [
+              "ffb708bc-2a6a-4820-9fba-c983d10872e3"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 729.5,
+            "y": 145
+          }
+        }
+      ],
+      [
+        17,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "Start",
+            "node": [
+              [
+                {
+                  "Object": {
+                    "ident": "questflow:node_id"
+                  }
+                }
+              ],
+              [
+                {
+                  "Object": {
+                    "ident": "questflow:node_id"
+                  }
+                }
+              ]
+            ],
+            "region": "936f3273-3d13-4b90-9986-d52a2d0db41c"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": -254.72698974609375,
+            "y": 507.1921081542969
+          }
+        }
+      ],
+      [
+        18,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "73c3592e-a8fc-4282-9d69-881aad62cd40"
+            ],
+            "kind": "End",
+            "node": [
+              [],
+              []
+            ],
+            "region": "936f3273-3d13-4b90-9986-d52a2d0db41c"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": 815.9354248046875,
+            "y": 483.83941650390625
+          }
+        }
+      ],
+      [
+        19,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "QuestId",
+              "NodeId"
+            ],
+            "id": "questflow:node_id"
+          },
+          "id": "destructuring",
+          "open": true,
+          "pos": {
+            "x": -3.185281753540039,
+            "y": 512.5072021484375
+          }
+        }
+      ],
+      [
+        20,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "String",
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "Unknown"
+            ]
+          ],
+          "id": "set_field",
+          "open": true,
+          "pos": {
+            "x": 370.918212890625,
+            "y": 448.295166015625
+          }
+        }
+      ],
+      [
+        21,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "d19141ef-e0cb-48ac-8be9-52ee90edc1cd",
+              "3a6d4dd3-a69e-42d7-beb3-4aecabb16dda"
+            ],
+            "node": [
+              [],
+              [
+                {
+                  "Object": {
+                    "ident": "eh:objects/quests/node"
+                  }
+                }
+              ]
+            ],
+            "variables": [
+              {
+                "id": "d19141ef-e0cb-48ac-8be9-52ee90edc1cd",
+                "name": "value",
+                "ty": {
+                  "Object": {
+                    "ident": "eh:objects/quests/node"
+                  }
+                }
+              },
+              {
+                "id": "3a6d4dd3-a69e-42d7-beb3-4aecabb16dda",
+                "name": "value",
+                "ty": {
+                  "Object": {
+                    "ident": "eh:objects/quests/node"
+                  }
+                }
+              }
+            ]
+          },
+          "id": "coalesce",
+          "open": true,
+          "pos": {
+            "x": 689.720947265625,
+            "y": 309.9053955078125
+          }
+        }
+      ],
+      [
+        22,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "String"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ]
+          ],
+          "id": "unwrap",
+          "open": true,
+          "pos": {
+            "x": 554.4368896484375,
+            "y": 227.83665466308594
+          }
+        }
+      ],
+      [
+        23,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "Unknown",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert_equals",
+          "open": true,
+          "pos": {
+            "x": 286.84918212890625,
+            "y": 672.0313110351562
+          }
+        }
+      ],
+      [
+        24,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "69b24ad1-d3f0-499d-8b37-3c3c9241322e",
+            "input_types": [
+              "Unknown",
+              "String"
+            ],
+            "inputs": [
+              "5b7d35d4-0e0b-4307-b33c-75b8068cd6e0",
+              "0597553d-6f72-49a7-be37-b61874f7c3d6"
+            ],
+            "output_types": [],
+            "outputs": []
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 618.8665771484375,
+            "y": 637.732421875
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "09f5110d-2634-467a-a80e-070c9516fea3",
+        "name": "Node Id",
+        "ty": {
+          "Object": {
+            "ident": "questflow:node_id"
+          }
+        }
+      }
+    ],
+    "regions": [
+      {
+        "color": null,
+        "id": "311cd0ea-bf30-4187-b6ad-d7a1ec3dee70",
+        "variables": [
+          {
+            "id": "7ff23083-c330-499f-a607-e63f1bf4683e",
+            "name": "Quest Id",
+            "ty": {
+              "Object": {
+                "ident": "sys:optional<Item=string>"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "color": null,
+        "id": "f919ffa4-99af-4d04-8243-d0fd2303e0eb",
+        "variables": [
+          {
+            "id": "bc933629-60ea-4896-90ca-84f39b1e320a",
+            "name": "value",
+            "ty": {
+              "Object": {
+                "ident": "questflow:node_id"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "color": null,
+        "id": "936f3273-3d13-4b90-9986-d52a2d0db41c",
+        "variables": [
+          {
+            "id": "73c3592e-a8fc-4282-9d69-881aad62cd40",
+            "name": "value",
+            "ty": {
+              "Object": {
+                "ident": "eh:objects/quests/node"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "id": "49b5c2f0-6e6c-44b6-877d-beba9491e817",
+  "is_node_group": true,
+  "name": "Conditional Node",
+  "version": "V1"
+}

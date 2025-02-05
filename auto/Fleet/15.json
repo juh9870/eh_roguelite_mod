@@ -1,0 +1,14 @@
+{
+  "Factions": {
+    "List": [
+      16
+    ],
+    "Type": 1
+  },
+  "Id": 15,
+  "ItemType": 18,
+  "LevelBonus": 25,
+  "SpecificShips": [
+    279
+  ]
+}

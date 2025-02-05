@@ -1,0 +1,16 @@
+{
+  "AmmunitionClass": 12,
+  "AreaOfEffect": 1.5,
+  "BulletPrefab": "Energy1",
+  "Damage": 1,
+  "DamageType": 2,
+  "EnergyCost": 3,
+  "HitSound": "hit_09",
+  "Id": 18,
+  "IgnoresShipVelocity": true,
+  "ItemType": 4,
+  "LifeTime": 1.5,
+  "Range": 15,
+  "Size": 0.5,
+  "Velocity": 5
+}

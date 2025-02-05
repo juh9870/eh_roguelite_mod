@@ -1,0 +1,146 @@
+{
+  "Id": 10003,
+  "ItemType": 15,
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "Change Loadout",
+          "TargetNode": 10
+        },
+        {
+          "ButtonText": "rgl:scouts.name",
+          "Requirement": {
+            "ItemId": 10001,
+            "MinValue": 1,
+            "Type": 25
+          },
+          "TargetNode": 14
+        }
+      ],
+      "Id": 1,
+      "Message": "Select a path",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 11,
+      "Id": 10,
+      "Loot": 10013,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 12,
+      "Id": 11,
+      "Loot": 10014,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 13,
+      "Id": 12,
+      "Quest": 10004,
+      "Type": 43
+    },
+    {
+      "Id": 13,
+      "Message": "QUEST rgl:encounter/path_choice NODE #13",
+      "Transitions": [
+        {
+          "Requirement": {
+            "ItemId": 10000,
+            "MinValue": 1,
+            "Type": 25
+          },
+          "TargetNode": 1,
+          "Weight": 1
+        },
+        {
+          "Requirement": {
+            "Requirements": [
+              {
+                "ItemId": 10003,
+                "MinValue": 1,
+                "Type": 25
+              },
+              {
+                "Requirements": [
+                  {
+                    "ItemId": 10004,
+                    "Type": 10
+                  }
+                ],
+                "Type": 3
+              }
+            ],
+            "Type": 2
+          },
+          "TargetNode": 1,
+          "Weight": 1
+        }
+      ],
+      "Type": 15
+    },
+    {
+      "Id": 4,
+      "Type": 42
+    },
+    {
+      "DefaultTransition": 4,
+      "Id": 17,
+      "Quest": 10002,
+      "Type": 43
+    },
+    {
+      "DefaultTransition": 4,
+      "Id": 19,
+      "Quest": 10005,
+      "Type": 43
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 19
+        }
+      ],
+      "Id": 18,
+      "Message": "This branch has no conclusion. Try again",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 16
+        },
+        {
+          "ButtonText": "$Cancel",
+          "TargetNode": 1
+        }
+      ],
+      "Enemy": 10000,
+      "Id": 15,
+      "Message": "rgl:scouts.desc",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 17,
+      "Enemy": 10000,
+      "FailureTransition": 18,
+      "Id": 16,
+      "Type": 20
+    },
+    {
+      "DefaultTransition": 1,
+      "Id": 14,
+      "Message": "QUEST rgl:encounter/path_choice NODE #14",
+      "Transitions": [
+        {
+          "TargetNode": 15,
+          "Weight": 1
+        }
+      ],
+      "Type": 16
+    }
+  ],
+  "Weight": 1
+}

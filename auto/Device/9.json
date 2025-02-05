@@ -1,0 +1,16 @@
+{
+  "ActivationType": 1,
+  "Color": "#65FF0000",
+  "ControlButtonIcon": "controls_gear",
+  "Cooldown": 1,
+  "DeviceClass": 4,
+  "EffectPrefab": "ForceField",
+  "EnergyConsumption": 0.5,
+  "Id": 9,
+  "ItemType": 2,
+  "PassiveEnergyConsumption": 2,
+  "Power": 0.3,
+  "Range": 50,
+  "Size": 1.5,
+  "Sound": "launch_03"
+}

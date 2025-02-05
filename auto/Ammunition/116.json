@@ -1,0 +1,35 @@
+{
+  "Body": {
+    "BulletPrefab": 12,
+    "EnergyCost": 10,
+    "HitPoints": 10,
+    "Range": 30,
+    "Size": 0.4,
+    "Velocity": 20,
+    "Weight": 0.5
+  },
+  "Id": 116,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 117,
+      "AudioClip": "explosion_04",
+      "Color": "#0051FF",
+      "ColorMode": 1,
+      "Condition": 2,
+      "EffectType": 2,
+      "PowerMultiplier": 75,
+      "Quantity": 1,
+      "Size": 10
+    },
+    {
+      "Color": "#20FFFFFF",
+      "ColorMode": 3,
+      "Condition": 1,
+      "EffectType": 4,
+      "Lifetime": 1,
+      "Size": 5,
+      "VisualEffect": 6
+    }
+  ]
+}

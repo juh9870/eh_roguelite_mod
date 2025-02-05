@@ -1,0 +1,25 @@
+{
+  "Body": {
+    "BulletPrefab": 7,
+    "Color": "#00C7FF",
+    "Range": 6,
+    "Size": 0.5,
+    "Velocity": 20
+  },
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 3
+    }
+  ],
+  "Id": 106,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "AudioClip": "hit_05",
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1
+    }
+  ]
+}

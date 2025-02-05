@@ -1,0 +1,30 @@
+{
+  "AmmunitionId": 123,
+  "Availability": 5,
+  "CellType": "4",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 12,
+  "Icon": "biogun",
+  "Id": 270,
+  "ItemType": 1,
+  "Layout": "0110011011111111",
+  "Level": 250,
+  "Name": "$ParasiteL",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    1
+  ],
+  "Restrictions": {
+    "NotForMechanicShips": true
+  },
+  "WeaponId": 111,
+  "WeaponSlotType": "S"
+}

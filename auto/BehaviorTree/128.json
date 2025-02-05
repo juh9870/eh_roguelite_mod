@@ -1,0 +1,68 @@
+{
+  "Id": 128,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Type": 103
+      },
+      {
+        "Nodes": [
+          {
+            "Type": 58
+          },
+          {
+            "Cooldown": 0.1,
+            "Requirement": {
+              "DifficultyLevel": 1,
+              "Type": 6
+            },
+            "Type": 111
+          }
+        ],
+        "Type": 4
+      },
+      {
+        "Nodes": [
+          {
+            "ItemId": 141,
+            "Type": 1
+          },
+          {
+            "Nodes": [
+              {
+                "Type": 58
+              },
+              {
+                "Type": 115
+              },
+              {
+                "Type": 102
+              }
+            ],
+            "Type": 3
+          },
+          {
+            "Nodes": [
+              {
+                "Type": 54
+              },
+              {
+                "Type": 115
+              },
+              {
+                "Type": 127
+              }
+            ],
+            "Type": 3
+          }
+        ],
+        "Type": 4
+      }
+    ],
+    "Requirement": {
+      "Type": 11
+    },
+    "Type": 3
+  }
+}

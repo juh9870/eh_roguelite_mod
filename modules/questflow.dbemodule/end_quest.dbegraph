@@ -1,0 +1,689 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 1
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 13
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 11
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 6
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 9
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 6,
+          "output": 2
+        },
+        {
+          "input": 0,
+          "node": 7
+        }
+      ],
+      [
+        {
+          "node": 6,
+          "output": 2
+        },
+        {
+          "input": 0,
+          "node": 8
+        }
+      ],
+      [
+        {
+          "node": 7,
+          "output": 0
+        },
+        {
+          "input": 2,
+          "node": 1
+        }
+      ],
+      [
+        {
+          "node": 8,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 10
+        }
+      ],
+      [
+        {
+          "node": 10,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 9
+        }
+      ],
+      [
+        {
+          "node": 12,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 14
+        }
+      ],
+      [
+        {
+          "node": 13,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 12
+        }
+      ],
+      [
+        {
+          "node": 15,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 14
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 1,
+          "node": 1
+        },
+        "Nodes"
+      ],
+      [
+        {
+          "input": 2,
+          "node": 4
+        },
+        "The first node has ID that doesn't equal 1"
+      ],
+      [
+        {
+          "input": 0,
+          "node": 5
+        },
+        1
+      ],
+      [
+        {
+          "input": 1,
+          "node": 7
+        },
+        1
+      ],
+      [
+        {
+          "input": 1,
+          "node": 8
+        },
+        -1
+      ],
+      [
+        {
+          "input": 2,
+          "node": 9
+        },
+        "The first node in the qest must be the last to be added to the flow "
+      ],
+      [
+        {
+          "input": 1,
+          "node": 10
+        },
+        "Id"
+      ],
+      [
+        {
+          "input": 2,
+          "node": 14
+        },
+        "The quest must not have any manually-added nodes"
+      ],
+      [
+        {
+          "input": 0,
+          "node": 15
+        },
+        0
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "9c13a952-2ad1-431f-b24c-7ba114d1714f",
+        "name": "First Node Id",
+        "ty": {
+          "Object": {
+            "ident": "questflow:node_id"
+          }
+        }
+      },
+      {
+        "id": "256e1a25-48e6-4f48-91b8-414a4a82e3eb",
+        "name": "Quest",
+        "ty": {
+          "Object": {
+            "ident": "eh:objects/quests/quest_data"
+          }
+        }
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "9c13a952-2ad1-431f-b24c-7ba114d1714f",
+              "256e1a25-48e6-4f48-91b8-414a4a82e3eb"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -355,
+            "y": -29.5
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/quest_data"
+                }
+              },
+              "String",
+              "Unknown"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/quest_data"
+                }
+              },
+              "Unknown"
+            ]
+          ],
+          "id": "set_field",
+          "open": true,
+          "pos": {
+            "x": 635,
+            "y": 21.5
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "e5625d5d-0207-4ba2-aa39-5f2d82dfafef",
+            "input_types": [
+              "String",
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/quest_data"
+                }
+              }
+            ],
+            "inputs": [
+              "b08b57ba-b4a7-41dd-b047-fe439814f3c7",
+              "b23cc842-4a60-4b48-ac1e-9322a6a455c2"
+            ],
+            "output_types": [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/quest"
+                }
+              }
+            ],
+            "outputs": [
+              "8f7327aa-60a9-41fc-83e5-052e7bb956fd"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 811,
+            "y": -148.5
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "fields": [
+              "QuestId",
+              "NodeId"
+            ],
+            "id": "questflow:node_id"
+          },
+          "id": "destructuring",
+          "open": true,
+          "pos": {
+            "x": -128,
+            "y": -209.5
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "Unknown",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert_equals",
+          "open": true,
+          "pos": {
+            "x": 98,
+            "y": -373.5
+          }
+        }
+      ],
+      [
+        5,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Number"
+            ],
+            [
+              "Number"
+            ]
+          ],
+          "id": "numeric_value",
+          "open": true,
+          "pos": {
+            "x": -126,
+            "y": -351.5
+          }
+        }
+      ],
+      [
+        6,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "cafc4eae-2223-473c-b0f5-76433455beba",
+            "input_types": [
+              "String"
+            ],
+            "inputs": [
+              "11a08be6-87df-4de4-a02c-93d831b76207"
+            ],
+            "output_types": [
+              "String",
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=eh:objects/quests/node>"
+                }
+              }
+            ],
+            "outputs": [
+              "3883d208-cf34-4f51-8416-73ccbdbe17db",
+              "ace81d5a-c545-4ad8-a697-270af039f271",
+              "f1cbd99a-f766-453b-b5f3-97f7bf71d6cb"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 38,
+            "y": -123.5
+          }
+        }
+      ],
+      [
+        7,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "Number"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ]
+          ],
+          "id": "list_rotate_right",
+          "open": true,
+          "pos": {
+            "x": 349,
+            "y": 121
+          }
+        }
+      ],
+      [
+        8,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              "Number"
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ]
+          ],
+          "id": "list_get",
+          "open": true,
+          "pos": {
+            "x": 575,
+            "y": -396
+          }
+        }
+      ],
+      [
+        9,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "Unknown",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert_equals",
+          "open": true,
+          "pos": {
+            "x": 928,
+            "y": -336
+          }
+        }
+      ],
+      [
+        10,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "String"
+            ],
+            [
+              "Unknown"
+            ]
+          ],
+          "id": "get_field",
+          "open": true,
+          "pos": {
+            "x": 750,
+            "y": -399
+          }
+        }
+      ],
+      [
+        11,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "cd55a9c4-6068-412e-87b7-4d353561cd44"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 1060,
+            "y": -126
+          }
+        }
+      ],
+      [
+        12,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ],
+            [
+              "Number"
+            ]
+          ],
+          "id": "list_length",
+          "open": true,
+          "pos": {
+            "x": 1017,
+            "y": 67
+          }
+        }
+      ],
+      [
+        13,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown"
+            ],
+            [
+              {
+                "List": {
+                  "id": "List<Item=eh:objects/quests/node>"
+                }
+              }
+            ]
+          ],
+          "id": "as_type",
+          "open": true,
+          "pos": {
+            "x": 857,
+            "y": 83
+          }
+        }
+      ],
+      [
+        14,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "Unknown",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert_equals",
+          "open": true,
+          "pos": {
+            "x": 1245,
+            "y": 74
+          }
+        }
+      ],
+      [
+        15,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Number"
+            ],
+            [
+              "Number"
+            ]
+          ],
+          "id": "numeric_value",
+          "open": true,
+          "pos": {
+            "x": 1019,
+            "y": 169
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "cd55a9c4-6068-412e-87b7-4d353561cd44",
+        "name": "Quest",
+        "ty": {
+          "Object": {
+            "ident": "eh:objects/quests/quest"
+          }
+        }
+      }
+    ],
+    "regions": []
+  },
+  "id": "c1edb671-f3c1-480e-a5c7-940ccfc1d727",
+  "is_node_group": true,
+  "name": "QuestFlow End",
+  "version": "V1"
+}

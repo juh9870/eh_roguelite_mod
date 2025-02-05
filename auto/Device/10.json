@@ -1,0 +1,16 @@
+{
+  "ActivationType": 2,
+  "Color": "#FF8080",
+  "ControlButtonIcon": "controls_shield",
+  "Cooldown": 0.3,
+  "DeviceClass": 6,
+  "EffectPrefab": "Lightning",
+  "EnergyConsumption": 1,
+  "Id": 10,
+  "ItemType": 2,
+  "Lifetime": 0.1,
+  "PassiveEnergyConsumption": 3,
+  "Power": 3,
+  "Size": 3,
+  "Sound": "shot_11"
+}

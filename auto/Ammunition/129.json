@@ -1,0 +1,32 @@
+{
+  "Body": {
+    "BulletPrefab": 4,
+    "Color": "#7F00FF",
+    "EnergyCost": 25,
+    "Range": 45,
+    "Size": 4,
+    "Velocity": 15,
+    "Weight": 0.1
+  },
+  "Id": 129,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 130,
+      "Condition": 2,
+      "EffectType": 2,
+      "OffsetX": "0",
+      "PowerMultiplier": 50,
+      "Quantity": 1,
+      "Rotation": "0",
+      "Size": 5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "Size": 2,
+      "SyncLifetimeWithBullet": true,
+      "VisualEffect": 12
+    }
+  ]
+}

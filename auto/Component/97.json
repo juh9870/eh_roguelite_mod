@@ -1,0 +1,23 @@
+{
+  "AmmunitionId": 12,
+  "Availability": 1,
+  "CellType": "4",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 5,
+  "Icon": "torpedo1",
+  "Id": 97,
+  "ItemType": 1,
+  "Layout": "1010",
+  "Level": 75,
+  "Name": "$DroneControl_M",
+  "PossibleModifications": [
+    13,
+    8,
+    6,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 12
+}

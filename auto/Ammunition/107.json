@@ -1,0 +1,34 @@
+{
+  "Body": {
+    "BulletPrefab": 4,
+    "CanBeDisarmed": true,
+    "Color": "#00C7FF",
+    "EnergyCost": 15,
+    "Range": 30,
+    "Size": 1,
+    "Velocity": 15,
+    "Weight": 0.1
+  },
+  "Id": 107,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 101,
+      "AudioClip": "hit_01",
+      "Color": "#FF00FF",
+      "ColorMode": 2,
+      "Condition": 2,
+      "EffectType": 2,
+      "PowerMultiplier": 30,
+      "Quantity": 1,
+      "Size": 10
+    },
+    {
+      "Ammunition": 100,
+      "Condition": 2,
+      "EffectType": 2,
+      "Quantity": 7,
+      "RandomFactor": 1
+    }
+  ]
+}

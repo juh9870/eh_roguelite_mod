@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 120,
+  "Availability": 5,
+  "CellType": "4",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 18,
+  "Icon": "cannon_1x4",
+  "Id": 201,
+  "ItemType": 1,
+  "Layout": "0100010001000100",
+  "Level": 200,
+  "Name": "$PixieTorpedo",
+  "PossibleModifications": [
+    6,
+    5,
+    16,
+    2,
+    7,
+    1,
+    14
+  ],
+  "WeaponId": 109,
+  "WeaponSlotType": "T"
+}

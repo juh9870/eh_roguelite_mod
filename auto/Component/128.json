@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 34,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#40FF40",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 4,
+  "Icon": "shield1",
+  "Id": 128,
+  "ItemType": 1,
+  "Layout": "1",
+  "Level": 15,
+  "Name": "$LightningCannon_S_3",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 34,
+  "WeaponSlotType": "L"
+}

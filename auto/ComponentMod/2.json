@@ -1,0 +1,16 @@
+{
+  "Description": "$EnergyCostMod",
+  "Id": 2,
+  "ItemType": 12,
+  "Modifications": [
+    {
+      "Gold": 0.5,
+      "Gray1": 1.2,
+      "Gray2": 1.5,
+      "Gray3": 2,
+      "Green": 0.9,
+      "Purple": 0.75,
+      "Type": 61
+    }
+  ]
+}

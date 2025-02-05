@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 132,
+  "Availability": 2,
+  "CellType": "4",
+  "Color": "#AFE5F7",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 19,
+  "Icon": "firework",
+  "Id": 276,
+  "ItemType": 1,
+  "Layout": "110110110",
+  "Level": 300,
+  "Name": "$DotHarpoon",
+  "PossibleModifications": [
+    5,
+    8,
+    21,
+    6,
+    7,
+    1
+  ],
+  "WeaponId": 127,
+  "WeaponSlotType": "S"
+}

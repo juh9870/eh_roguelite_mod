@@ -1,0 +1,5 @@
+struct title="FlowNodeAction" {
+    object "TargetNode" "questflow:node_id"
+	object "Requirement" "eh:objects/quests/requirement"
+	string "ButtonText"
+}

@@ -1,0 +1,17 @@
+{
+  "CellType": "2",
+  "Color": "#5665FF",
+  "ComponentStatsId": 3,
+  "DeviceId": 9,
+  "DisplayCategory": 6,
+  "Faction": 7,
+  "Icon": "reactor2",
+  "Id": 68,
+  "ItemType": 1,
+  "Layout": "111111111",
+  "Name": "$GravityGenerator",
+  "PossibleModifications": [
+    2,
+    1
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 7,
+  "ItemType": 15,
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$WORM_ACTION_Attack",
+          "TargetNode": 2
+        },
+        {
+          "ButtonText": "$WORM_ACTION_Ignore",
+          "TargetNode": 5
+        }
+      ],
+      "Enemy": 4,
+      "Id": 1,
+      "Message": "$WORM_Message",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 3,
+      "Enemy": 4,
+      "FailureTransition": 6,
+      "Id": 2,
+      "Type": 20
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 4
+        }
+      ],
+      "Id": 3,
+      "Loot": 7,
+      "Message": "$MessageCombatReward",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 5,
+      "Id": 4,
+      "Loot": 7,
+      "Type": 35
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    },
+    {
+      "Id": 6,
+      "Type": 41
+    }
+  ],
+  "StartCondition": 1,
+  "Weight": 0.2
+}

@@ -1,0 +1,137 @@
+{
+  "Components": [
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 10,
+      "Y": 11
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 11
+    },
+    {
+      "ComponentId": 60,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 12
+    },
+    {
+      "ComponentId": 59,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 12
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 10
+    },
+    {
+      "ComponentId": 76,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 7
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 2
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 1
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 2
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 1
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 3
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 3
+    },
+    {
+      "ComponentId": 12,
+      "KeyBinding": -1,
+      "X": 9,
+      "Y": 10
+    },
+    {
+      "ComponentId": 12,
+      "KeyBinding": -1,
+      "X": 8,
+      "Y": 10
+    },
+    {
+      "ComponentId": 12,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 10
+    },
+    {
+      "ComponentId": 12,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 10
+    },
+    {
+      "ComponentId": 157,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 4
+    },
+    {
+      "ComponentId": 157,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 4
+    },
+    {
+      "ComponentId": 157,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 4
+    },
+    {
+      "ComponentId": 157,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 10
+    },
+    {
+      "ComponentId": 157,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 10
+    },
+    {
+      "ComponentId": 109,
+      "X": 5
+    }
+  ],
+  "Id": 99,
+  "ItemType": 8,
+  "ShipId": 77
+}

@@ -1,0 +1,29 @@
+{
+  "Id": 132,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "ItemId": 110,
+        "Requirement": {
+          "DifficultyLevel": 2,
+          "Type": 6
+        },
+        "Type": 1
+      },
+      {
+        "ItemId": 111,
+        "Requirement": {
+          "DifficultyLevel": 1,
+          "Type": 6
+        },
+        "Type": 1
+      },
+      {
+        "ItemId": 117,
+        "Type": 1
+      }
+    ],
+    "Type": 4
+  }
+}

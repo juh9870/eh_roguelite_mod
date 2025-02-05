@@ -1,0 +1,9 @@
+{
+  "ActivationType": 1,
+  "ControlButtonIcon": "controls_shot",
+  "FireRate": 10,
+  "Id": 48,
+  "ItemType": 3,
+  "ShotEffectPrefab": "OrbAdditive",
+  "Spread": 10
+}

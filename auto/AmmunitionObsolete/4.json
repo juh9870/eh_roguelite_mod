@@ -1,0 +1,14 @@
+{
+  "AmmunitionClass": 11,
+  "AreaOfEffect": 15,
+  "BulletPrefab": "Empty",
+  "Color": "#401080",
+  "Damage": 150,
+  "DamageType": 2,
+  "EnergyCost": 25,
+  "FireSound": "explosion_03",
+  "Id": 4,
+  "ItemType": 4,
+  "LifeTime": 0.5,
+  "Size": 4
+}

@@ -1,0 +1,250 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 1,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 1,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 2
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 0
+        }
+      ],
+      [
+        {
+          "node": 4,
+          "output": 0
+        },
+        {
+          "input": 2,
+          "node": 3
+        }
+      ]
+    ],
+    "inline_values": [],
+    "inputs": [
+      {
+        "id": "32ef7f56-8069-4cde-9185-cbeb7781c8fa",
+        "name": "Quest Id",
+        "ty": "String"
+      },
+      {
+        "id": "df1ebde0-60cf-4891-bfac-dfe404c7f253",
+        "name": "Nodes",
+        "ty": {
+          "List": {
+            "id": "List<Item=eh:objects/quests/node>"
+          }
+        }
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "4afcfc04-b528-42b7-93fe-d954695b7705"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 244,
+            "y": -80
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "32ef7f56-8069-4cde-9185-cbeb7781c8fa",
+              "df1ebde0-60cf-4891-bfac-dfe404c7f253"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -763,
+            "y": -103
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "cafc4eae-2223-473c-b0f5-76433455beba",
+            "input_types": [
+              "String"
+            ],
+            "inputs": [
+              "11a08be6-87df-4de4-a02c-93d831b76207"
+            ],
+            "output_types": [
+              "String",
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=eh:objects/quests/node>"
+                }
+              }
+            ],
+            "outputs": [
+              "3883d208-cf34-4f51-8416-73ccbdbe17db",
+              "ace81d5a-c545-4ad8-a697-270af039f271",
+              "f1cbd99a-f766-453b-b5f3-97f7bf71d6cb"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": -591,
+            "y": -257
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "e7d717d2-27a3-479e-90e5-2f676086d2d1",
+            "input_types": [
+              "String",
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=eh:objects/quests/node>"
+                }
+              }
+            ],
+            "inputs": [
+              "8141dfa7-75e2-4a0d-a35b-2cb9c81ed8b5",
+              "8905ce70-cb55-4f76-b9e8-906bf1f5e1ff",
+              "efc25798-bfdc-4491-a719-e8502e0a87de"
+            ],
+            "output_types": [
+              "String"
+            ],
+            "outputs": [
+              "5cb227ea-983d-492a-810b-10f08f0dd954"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": -88,
+            "y": -254
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              },
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ],
+            [
+              {
+                "Object": {
+                  "ident": "eh:objects/quests/node"
+                }
+              }
+            ]
+          ],
+          "id": "list_concat",
+          "open": true,
+          "pos": {
+            "x": -254,
+            "y": -124
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "4afcfc04-b528-42b7-93fe-d954695b7705",
+        "name": "Quest Id",
+        "ty": "String"
+      }
+    ],
+    "regions": []
+  },
+  "id": "a4ccbc26-c695-4df3-b89a-275833024f7f",
+  "is_node_group": true,
+  "name": "[Internal] QuestFlow Push Many Nodes",
+  "version": "V1"
+}

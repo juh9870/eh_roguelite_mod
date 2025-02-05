@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 141,
+  "Availability": 2,
+  "CellType": "4",
+  "Color": "#FF8000",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 10,
+  "Icon": "firework",
+  "Id": 118,
+  "ItemType": 1,
+  "Layout": "0111001110011100111001110",
+  "Level": 400,
+  "Name": "$ChargedLaser_L_2",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 8,
+  "WeaponSlotType": "L"
+}

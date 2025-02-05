@@ -1,0 +1,20 @@
+{
+  "AmmunitionClass": 13,
+  "AreaOfEffect": 10,
+  "BulletPrefab": "FragBomb",
+  "Color": "#FFDAB9",
+  "CoupledAmmunitionId": 48,
+  "Damage": 6,
+  "EnergyCost": 25,
+  "FireSound": "shot_02",
+  "HitPoints": 1,
+  "HitSound": "hit_01",
+  "Id": 19,
+  "Impulse": 0.2,
+  "ItemType": 4,
+  "LifeTime": 5,
+  "Range": 50,
+  "Recoil": 0.1,
+  "Size": 0.4,
+  "Velocity": 6
+}

@@ -1,0 +1,36 @@
+{
+  "Id": 125,
+  "ItemType": 28,
+  "RootNode": {
+    "Cooldown": 20,
+    "ExecutionMode": 2,
+    "Node": {
+      "Nodes": [
+        {
+          "Nodes": [
+            {
+              "Text": "need_repair",
+              "Type": 304
+            },
+            {
+              "ItemId": 108,
+              "Type": 1
+            },
+            {
+              "Result": true,
+              "Text": "wait_for_help",
+              "Type": 302
+            }
+          ],
+          "Type": 3
+        },
+        {
+          "Text": "wait_for_help",
+          "Type": 302
+        }
+      ],
+      "Type": 2
+    },
+    "Type": 7
+  }
+}

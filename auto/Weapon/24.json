@@ -1,0 +1,9 @@
+{
+  "ActivationType": 1,
+  "ControlButtonIcon": "controls_laser",
+  "Id": 24,
+  "ItemType": 3,
+  "ShotEffectPrefab": "OrbAdditive",
+  "ShotSound": "*flux_01",
+  "WeaponClass": 2
+}

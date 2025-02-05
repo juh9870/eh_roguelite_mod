@@ -1,0 +1,18 @@
+{
+  "BulletPrefab": "Bullet",
+  "Color": "#C0FFA7",
+  "Damage": 3.5,
+  "DamageType": 2,
+  "EnergyCost": 1.5,
+  "FireSound": "shot_14",
+  "HitEffectPrefab": "FlashAdditive",
+  "HitSound": "hit_03",
+  "Id": 49,
+  "Impulse": 0.01,
+  "ItemType": 4,
+  "LifeTime": 0.3,
+  "Range": 18,
+  "Recoil": 0.001,
+  "Size": 0.5,
+  "Velocity": 30
+}

@@ -1,0 +1,18 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#FFFFA0",
+  "ComponentStatsId": 159,
+  "DisplayCategory": 6,
+  "Faction": 3,
+  "Icon": "focus1",
+  "Id": 159,
+  "ItemType": 1,
+  "Layout": "1",
+  "Level": 40,
+  "Name": "$HighEnergyFocus_S",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

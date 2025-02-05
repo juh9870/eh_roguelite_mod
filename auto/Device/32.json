@@ -1,0 +1,16 @@
+{
+  "ActivationType": 1,
+  "Color": "#FF40FF",
+  "ControlButtonIcon": "controls_gear",
+  "Cooldown": 3,
+  "DeviceClass": 21,
+  "EnergyConsumption": 10,
+  "Id": 32,
+  "ItemType": 2,
+  "PassiveEnergyConsumption": 5,
+  "Power": 100,
+  "Range": 44,
+  "Size": 2,
+  "Sound": "hit_01",
+  "VisualEffect": 17
+}

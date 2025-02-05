@@ -1,0 +1,110 @@
+{
+  "Id": 8,
+  "ItemType": 15,
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$SOS_OUTOFFUEL_ACTION_Give",
+          "Requirement": {
+            "Loot": {
+              "MaxAmount": 5,
+              "MinAmount": 5,
+              "Type": 2
+            },
+            "Type": 26
+          },
+          "TargetNode": 4
+        },
+        {
+          "ButtonText": "$SOS_OUTOFFUEL_ACTION_Give",
+          "Requirement": {
+            "Loot": {
+              "MaxAmount": 10,
+              "MinAmount": 10,
+              "Type": 2
+            },
+            "Type": 26
+          },
+          "TargetNode": 7
+        },
+        {
+          "ButtonText": "$SOS_OUTOFFUEL_ACTION_Attack",
+          "TargetNode": 2
+        },
+        {
+          "ButtonText": "$SOS_OUTOFFUEL_ACTION_Decline",
+          "TargetNode": 3
+        }
+      ],
+      "Character": 6,
+      "Enemy": 5,
+      "Id": 1,
+      "Message": "$SOS_OUTOFFUEL_Message",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 3,
+      "Enemy": 5,
+      "FailureTransition": 3,
+      "Id": 2,
+      "Type": 20
+    },
+    {
+      "Id": 3,
+      "Type": 40
+    },
+    {
+      "DefaultTransition": 5,
+      "Id": 4,
+      "Loot": 4,
+      "Type": 36
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 6
+        }
+      ],
+      "Character": 6,
+      "Id": 5,
+      "Loot": 11,
+      "Message": "$SOS_OUTOFFUEL_Reward",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 3,
+      "Id": 6,
+      "Loot": 11,
+      "Type": 35
+    },
+    {
+      "DefaultTransition": 8,
+      "Id": 7,
+      "Loot": 9,
+      "Type": 36
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 9
+        }
+      ],
+      "Character": 6,
+      "Id": 8,
+      "Loot": 17,
+      "Message": "$SOS_OUTOFFUEL_Reward",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 3,
+      "Id": 9,
+      "Loot": 17,
+      "Type": 35
+    }
+  ],
+  "StartCondition": 1,
+  "Weight": 0.9
+}

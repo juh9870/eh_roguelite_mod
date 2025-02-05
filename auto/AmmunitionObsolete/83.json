@@ -1,0 +1,13 @@
+{
+  "AmmunitionClass": 21,
+  "BulletPrefab": "TractorBeam",
+  "Color": "#208020",
+  "DamageType": 1,
+  "EnergyCost": 1,
+  "FireSound": "*flux_06",
+  "Id": 83,
+  "ItemType": 4,
+  "LifeTime": 0.05,
+  "Range": 12,
+  "Size": 1
+}

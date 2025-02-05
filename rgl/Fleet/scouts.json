@@ -1,0 +1,14 @@
+{
+  "CombatRules": 10000,
+  "Id": 10000,
+  "ItemType": 18,
+  "LevelBonus": 100,
+  "NoRandomShips": true,
+  "SpecificShips": [
+    39,
+    39,
+    39,
+    39,
+    39
+  ]
+}

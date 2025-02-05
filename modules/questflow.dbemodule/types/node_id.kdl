@@ -1,0 +1,4 @@
+struct title="Node Id" graph_inline=false {
+    string "QuestId"
+    number "NodeId" min=1 max=999999 type="int"
+}

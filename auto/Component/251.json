@@ -1,0 +1,26 @@
+{
+  "AmmunitionId": 107,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FF5151",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 15,
+  "Icon": "torpedo4",
+  "Id": 251,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 200,
+  "Name": "$ClusterTorpedo",
+  "PossibleModifications": [
+    6,
+    5,
+    16,
+    2,
+    7,
+    1,
+    14
+  ],
+  "WeaponId": 101,
+  "WeaponSlotType": "T"
+}

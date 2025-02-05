@@ -1,0 +1,16 @@
+{
+  "ActivationType": 1,
+  "Color": "#C0FFFF80",
+  "ControlButtonIcon": "controls_boost",
+  "Cooldown": 1,
+  "EffectPrefab": "Flicker",
+  "EnergyConsumption": 0.3,
+  "Id": 1,
+  "ItemType": 2,
+  "Offset": {
+    "x": -0.1
+  },
+  "Power": 4,
+  "ScaleEnergyWithShipSize": false,
+  "Size": 2
+}

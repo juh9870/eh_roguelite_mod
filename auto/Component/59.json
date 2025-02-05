@@ -1,0 +1,19 @@
+{
+  "Availability": 1,
+  "CellType": "5",
+  "Color": "#FFDCC0",
+  "ComponentStatsId": 59,
+  "DisplayCategory": 4,
+  "Faction": -1,
+  "Icon": "engine3",
+  "Id": 59,
+  "ItemType": 1,
+  "Layout": "1100",
+  "Level": 20,
+  "Name": "$NuclearDrive_M",
+  "PossibleModifications": [
+    2,
+    11,
+    1
+  ]
+}

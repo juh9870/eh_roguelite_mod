@@ -1,0 +1,18 @@
+{
+  "Availability": 1,
+  "CellType": "1",
+  "ComponentStatsId": 201,
+  "DisplayCategory": 2,
+  "Faction": 15,
+  "Icon": "armor52",
+  "Id": 223,
+  "ItemType": 1,
+  "Layout": "1111",
+  "Level": 100,
+  "Name": "$ReactiveArmor_M",
+  "PossibleModifications": [
+    1,
+    3,
+    2
+  ]
+}

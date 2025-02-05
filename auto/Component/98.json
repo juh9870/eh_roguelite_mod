@@ -1,0 +1,23 @@
+{
+  "AmmunitionId": 15,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#C0C0FF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 4,
+  "Icon": "energybeam2",
+  "Id": 98,
+  "ItemType": 1,
+  "Layout": "010010010",
+  "Level": 85,
+  "Name": "$EnergyBeam_M",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 15,
+  "WeaponSlotType": "L"
+}

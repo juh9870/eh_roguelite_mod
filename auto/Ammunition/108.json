@@ -1,0 +1,39 @@
+{
+  "Body": {
+    "AiBulletBehavior": 4,
+    "BulletPrefab": 8,
+    "Color": "#FFE1B5",
+    "EnergyCost": 60,
+    "HitPoints": 10,
+    "Range": 15,
+    "Size": 0.7,
+    "Velocity": 10,
+    "Weight": 0.5
+  },
+  "Id": 108,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 111,
+      "AudioClip": "explosion_04",
+      "Color": "#FFBE00",
+      "ColorMode": 2,
+      "Condition": 6,
+      "EffectType": 2,
+      "OffsetX": "0",
+      "PowerMultiplier": 100,
+      "Quantity": 1,
+      "Rotation": "0",
+      "Size": 10
+    },
+    {
+      "Ammunition": 110,
+      "Condition": 5,
+      "EffectType": 2,
+      "OffsetX": "0.5",
+      "Quantity": 8,
+      "RandomFactor": 1,
+      "Rotation": "RANDOM(0, 360)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Body": {
+    "AiBulletBehavior": 5,
+    "BulletPrefab": 17,
+    "Color": "#C9D0F7",
+    "HitPoints": 150,
+    "Lifetime": 0.5,
+    "Range": 12,
+    "Size": 1,
+    "Velocity": 24,
+    "Weight": 1
+  },
+  "Controller": {
+    "Type": 4
+  },
+  "Effects": [
+    {
+      "Power": 1
+    },
+    {
+      "Power": 100,
+      "Type": 3
+    }
+  ],
+  "Id": 131,
+  "ImpactType": 2,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Color": "#BEE2E3",
+      "ColorMode": 1,
+      "Condition": 3,
+      "EffectType": 1,
+      "Lifetime": 0.2,
+      "Size": 5,
+      "UseBulletPosition": true,
+      "VisualEffect": 19
+    },
+    {
+      "AudioClip": "explosion_10",
+      "Color": "#A8D0E5",
+      "ColorMode": 1,
+      "Condition": 2,
+      "EffectType": 1,
+      "Lifetime": 0.2,
+      "Size": 5,
+      "VisualEffect": 1
+    }
+  ]
+}

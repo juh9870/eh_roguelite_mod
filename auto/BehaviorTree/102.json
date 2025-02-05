@@ -1,0 +1,44 @@
+{
+  "Id": 102,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "MinValue": 0.25,
+        "Type": 51
+      },
+      {
+        "MinValue": 0.5,
+        "NoDrones": true,
+        "Type": 100
+      },
+      {
+        "Cooldown": 20,
+        "Node": {
+          "ItemId": 109,
+          "Type": 1
+        },
+        "Result": true,
+        "Type": 7
+      },
+      {
+        "Nodes": [
+          {
+            "InRange": true,
+            "Type": 106
+          },
+          {
+            "Type": 105,
+            "UseSystems": true
+          }
+        ],
+        "Type": 2
+      }
+    ],
+    "Requirement": {
+      "DeviceClass": 8,
+      "Type": 10
+    },
+    "Type": 3
+  }
+}

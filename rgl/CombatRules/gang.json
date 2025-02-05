@@ -1,0 +1,10 @@
+{
+  "DisableRandomLoot": true,
+  "Id": 10001,
+  "InitialEnemyShips": "100",
+  "ItemType": 30,
+  "MaxEnemyShips": "100",
+  "ShipSelection": 3,
+  "TimeLimit": "120",
+  "TimeOutMode": 1
+}

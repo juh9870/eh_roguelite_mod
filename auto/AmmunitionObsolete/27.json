@@ -1,0 +1,15 @@
+{
+  "AmmunitionClass": 18,
+  "BulletPrefab": "Laser",
+  "Color": "#B4FF6D5A",
+  "Damage": 8,
+  "DamageType": 2,
+  "EnergyCost": 1,
+  "FireSound": "*flux_01",
+  "HitEffectPrefab": "FlashAdditive",
+  "Id": 27,
+  "ItemType": 4,
+  "LifeTime": 0.05,
+  "Range": 4,
+  "Size": 0.75
+}

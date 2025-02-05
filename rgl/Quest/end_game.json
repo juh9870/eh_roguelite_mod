@@ -1,0 +1,24 @@
+{
+  "Id": 10005,
+  "ItemType": 15,
+  "Name": "End of run",
+  "Nodes": [
+    {
+      "DefaultTransition": 10,
+      "Id": 1,
+      "Loot": 10015,
+      "Type": 36
+    },
+    {
+      "Id": 4,
+      "Type": 42
+    },
+    {
+      "DefaultTransition": 4,
+      "Id": 10,
+      "Quest": 10001,
+      "Type": 43
+    }
+  ],
+  "Weight": 1
+}

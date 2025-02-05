@@ -1,0 +1,32 @@
+{
+  "Id": 6,
+  "ItemType": 16,
+  "Loot": {
+    "Items": [
+      {
+        "Loot": {
+          "MaxAmount": 120,
+          "MinAmount": 80,
+          "Type": 2
+        }
+      },
+      {
+        "Loot": {
+          "Type": 5
+        }
+      },
+      {
+        "Loot": {
+          "Factions": {
+            "Type": 3
+          },
+          "MaxAmount": 8,
+          "MinAmount": 5,
+          "Type": 10,
+          "ValueRatio": 1
+        }
+      }
+    ],
+    "Type": 21
+  }
+}

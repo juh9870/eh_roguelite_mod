@@ -1,0 +1,18 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#FFDCFF",
+  "ComponentStatsId": 76,
+  "DisplayCategory": 3,
+  "Faction": 3,
+  "Icon": "reactor2",
+  "Id": 76,
+  "ItemType": 1,
+  "Layout": "111111111",
+  "Level": 55,
+  "Name": "$NuclearReactor_L",
+  "PossibleModifications": [
+    12,
+    1
+  ]
+}

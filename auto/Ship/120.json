@@ -1,0 +1,37 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 80,
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "C"
+    }
+  ],
+  "EngineColor": "#40FF00FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.5
+    }
+  ],
+  "Faction": 16,
+  "Features": {
+    "BuiltinDevices": [
+      18
+    ],
+    "KineticResistance": 5,
+    "Regeneration": true,
+    "ShipWeightBonus": -0.5
+  },
+  "IconImage": "slime",
+  "IconScale": 1,
+  "Id": 120,
+  "ItemType": 6,
+  "Layout": "0044400022222002222202222222222222233555330055500",
+  "ModelImage": "slime",
+  "ModelScale": 1,
+  "Name": "$f16_Scout"
+}

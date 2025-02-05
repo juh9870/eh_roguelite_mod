@@ -1,0 +1,64 @@
+{
+  "Id": 4,
+  "ItemType": 15,
+  "Name": "$Beacon_EscapePod",
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Action_Accept",
+          "TargetNode": 2
+        },
+        {
+          "ButtonText": "$Action_Decline",
+          "TargetNode": 6
+        }
+      ],
+      "Id": 1,
+      "Message": "$Beacon_EscapePod_Intro",
+      "Type": 10
+    },
+    {
+      "Id": 2,
+      "Transitions": [
+        {
+          "Requirement": {
+            "MaxValue": 5,
+            "MinValue": 3,
+            "Type": 7
+          },
+          "TargetNode": 3
+        }
+      ],
+      "Type": 17
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 4
+        }
+      ],
+      "Id": 3,
+      "Loot": 1,
+      "Message": "$Beacon_EscapePod_Completed",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 5,
+      "Id": 4,
+      "Loot": 1,
+      "Type": 35
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    },
+    {
+      "Id": 6,
+      "Type": 41
+    }
+  ],
+  "StartCondition": 1,
+  "Weight": 0.5
+}

@@ -1,0 +1,34 @@
+{
+  "Body": {
+    "BulletPrefab": 4,
+    "CanBeDisarmed": true,
+    "Color": "#00FF48",
+    "EnergyCost": 100,
+    "Range": 60,
+    "Size": 1,
+    "Velocity": 30,
+    "Weight": 0.1
+  },
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 60
+    }
+  ],
+  "Id": 133,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 134,
+      "AudioClip": "explosion_08",
+      "Color": "#00FF48",
+      "Condition": 2,
+      "EffectType": 2,
+      "OffsetX": "0",
+      "PowerMultiplier": 30,
+      "Quantity": 1,
+      "Rotation": "0",
+      "Size": 30
+    }
+  ]
+}

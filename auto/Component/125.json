@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 31,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#40FF40",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 4,
+  "Icon": "shock2",
+  "Id": 125,
+  "ItemType": 1,
+  "Layout": "111010000",
+  "Level": 85,
+  "Name": "$LightningCannon_M_1",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 31,
+  "WeaponSlotType": "L"
+}

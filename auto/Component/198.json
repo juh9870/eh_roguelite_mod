@@ -1,0 +1,17 @@
+{
+  "CellType": "5",
+  "ComponentStatsId": 198,
+  "DisplayCategory": 4,
+  "Faction": -1,
+  "Icon": "engine0",
+  "Id": 198,
+  "ItemType": 1,
+  "Layout": "1",
+  "Level": 5,
+  "Name": "DroneEngine_2",
+  "PossibleModifications": [
+    11,
+    1,
+    2
+  ]
+}

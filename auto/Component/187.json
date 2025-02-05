@@ -1,0 +1,17 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "ComponentStatsId": 187,
+  "DisplayCategory": 5,
+  "Faction": 3,
+  "Icon": "drone_replicator2",
+  "Id": 187,
+  "ItemType": 1,
+  "Layout": "111111011",
+  "Level": 60,
+  "Name": "$DroneFactory_M",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

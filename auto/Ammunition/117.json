@@ -1,0 +1,30 @@
+{
+  "Body": {
+    "Color": "#FF8400",
+    "EnergyCost": 1,
+    "Lifetime": 0.5,
+    "ParentVelocityEffect": 0,
+    "Size": 1
+  },
+  "Effects": [
+    {
+      "Power": 0.5
+    },
+    {
+      "DamageType": 2,
+      "Power": 0.5
+    }
+  ],
+  "Id": 117,
+  "ImpactType": 1,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "Lifetime": 1,
+      "Size": 1,
+      "VisualEffect": 3
+    }
+  ]
+}

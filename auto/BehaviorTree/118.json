@@ -1,0 +1,23 @@
+{
+  "Id": 118,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "MinValue": 0.9,
+        "Type": 150
+      },
+      {
+        "MinValue": 0.75,
+        "Type": 50
+      },
+      {
+        "Type": 114
+      }
+    ],
+    "Requirement": {
+      "Type": 10
+    },
+    "Type": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Color": "#00FF00",
+  "Hidden": true,
+  "HideResearchTree": true,
+  "HomeStarDistance": 300,
+  "Id": 16,
+  "ItemType": 14,
+  "Name": "$Faction16",
+  "NoMissions": true,
+  "WanderingShipsDistance": 200
+}

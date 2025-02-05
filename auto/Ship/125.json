@@ -1,0 +1,16 @@
+{
+  "Features": {
+    "BuiltinDevices": [
+      24
+    ]
+  },
+  "IconImage": "ecm_drone",
+  "IconScale": 0.5,
+  "Id": 125,
+  "ItemType": 6,
+  "Layout": "5335333333333333",
+  "ModelImage": "ecm_drone",
+  "ModelScale": 0.75,
+  "Name": "Drone",
+  "ShipType": 3
+}

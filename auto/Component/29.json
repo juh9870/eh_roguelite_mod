@@ -1,0 +1,20 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#C0C0FF",
+  "ComponentStatsId": 3,
+  "DeviceId": 13,
+  "DisplayCategory": 6,
+  "Faction": 3,
+  "Icon": "shield2",
+  "Id": 29,
+  "ItemType": 1,
+  "Layout": "101111101",
+  "Level": 75,
+  "Name": "$StealthField",
+  "PossibleModifications": [
+    2,
+    1,
+    6
+  ]
+}

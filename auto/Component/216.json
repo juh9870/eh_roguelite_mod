@@ -1,0 +1,18 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#C0FFC0",
+  "ComponentStatsId": 199,
+  "DisplayCategory": 6,
+  "Faction": 5,
+  "Icon": "jammer",
+  "Id": 216,
+  "ItemType": 1,
+  "Layout": "1100",
+  "Level": 100,
+  "Name": "$Autopilot",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

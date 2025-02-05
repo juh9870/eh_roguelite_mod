@@ -1,0 +1,103 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 1
+        }
+      ]
+    ],
+    "inline_values": [],
+    "inputs": [
+      {
+        "id": "845832ec-4067-4259-8e67-e9fd0336f06a",
+        "name": "Quest Id",
+        "ty": "String"
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "845832ec-4067-4259-8e67-e9fd0336f06a"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -789.5,
+            "y": -23.5
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "51498dde-9db4-4b92-8888-0f26986ddb16"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": -297.5,
+            "y": -31.5
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "format": "questflow:quest@{quest}",
+            "keys": [
+              "quest"
+            ]
+          },
+          "id": "string_fmt",
+          "open": true,
+          "pos": {
+            "x": -572.5,
+            "y": -54.5
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "51498dde-9db4-4b92-8888-0f26986ddb16",
+        "name": "Key",
+        "ty": "String"
+      }
+    ],
+    "regions": []
+  },
+  "id": "b72f6cdc-5e2a-44be-bfdb-5aba63281989",
+  "is_node_group": true,
+  "name": "[Internal] QuestFlow Storage Key",
+  "version": "V1"
+}

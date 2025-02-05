@@ -1,0 +1,29 @@
+{
+  "AmmunitionId": 129,
+  "Availability": 2,
+  "CellType": "4",
+  "Color": "#39B9FF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 19,
+  "Icon": "accelerator1",
+  "Id": 274,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 200,
+  "Name": "$QuantumRiftTorpedo",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 126,
+  "WeaponSlotType": "T"
+}

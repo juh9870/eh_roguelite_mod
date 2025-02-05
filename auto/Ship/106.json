@@ -1,0 +1,40 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1,
+        "y": 0.15
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 1,
+        "y": -0.15
+      },
+      "WeaponClass": "M"
+    }
+  ],
+  "EngineColor": "#80FF8D00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Faction": 13,
+  "Features": {
+    "EnergyResistance": 1
+  },
+  "IconImage": "f13s2",
+  "IconScale": 0.7,
+  "Id": 106,
+  "ItemType": 6,
+  "Layout": "0000440440000000044044000000004404400000000440440000000001010000000000111000000000022200000010022222001001122222221100112222222110011255255211001005515500100000051500000",
+  "ModelImage": "f13s2",
+  "ModelScale": 1.6,
+  "Name": "$f13_Cruiser",
+  "SizeClass": 2
+}

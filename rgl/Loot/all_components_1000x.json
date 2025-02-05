@@ -1,0 +1,2348 @@
+{
+  "Id": 10010,
+  "ItemType": 16,
+  "Loot": {
+    "Items": [
+      {
+        "Loot": {
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 1,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 2,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 3,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 4,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 5,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 6,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 7,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 8,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 9,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 10,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 11,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 12,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 13,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 14,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 15,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 16,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 17,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 18,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 19,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 20,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 21,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 22,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 23,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 24,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 25,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 26,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 27,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 28,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 29,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 30,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 31,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 32,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 33,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 34,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 35,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 36,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 37,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 38,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 39,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 40,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 41,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 42,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 43,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 44,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 45,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 46,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 47,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 48,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 49,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 50,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 51,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 52,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 53,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 54,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 55,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 56,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 57,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 58,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 59,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 60,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 61,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 62,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 63,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 64,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 65,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 66,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 67,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 68,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 69,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 70,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 71,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 72,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 73,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 74,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 75,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 76,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 77,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 78,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 79,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 80,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 81,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 82,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 83,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 84,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 85,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 86,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 87,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 88,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 89,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 90,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 91,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 92,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 93,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 94,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 95,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 96,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 97,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 98,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 99,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 100,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 101,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 102,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 103,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 104,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 105,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 106,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 107,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 108,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 109,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 110,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 111,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 112,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 113,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 114,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 115,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 116,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 117,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 118,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 119,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 120,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 121,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 122,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 123,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 124,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 125,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 126,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 127,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 128,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 129,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 130,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 131,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 132,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 133,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 134,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 135,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 136,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 137,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 138,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 139,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 140,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 141,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 142,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 143,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 144,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 145,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 146,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 147,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 148,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 149,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 150,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 151,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 152,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 153,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 154,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 155,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 156,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 157,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 158,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 159,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 160,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 161,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 162,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 163,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 164,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 165,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 166,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 167,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 168,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 169,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 170,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 171,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 172,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 173,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 174,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 175,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 176,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 177,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 178,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 179,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 180,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 181,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 182,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 183,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 184,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 185,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 186,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 187,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 188,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 189,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 190,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 191,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 192,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 193,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 194,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 195,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 196,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 197,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 198,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 199,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 200,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 201,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 202,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 203,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 204,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 205,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 206,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 207,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 208,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 209,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 210,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 211,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 212,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 213,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 214,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 215,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 216,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 217,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 219,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 220,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 221,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 222,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 223,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 224,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 225,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 226,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 227,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 228,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 250,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 251,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 252,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 255,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 256,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 257,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 258,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 259,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 260,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 261,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 262,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 263,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 264,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 265,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 266,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 267,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 268,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 269,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 270,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 271,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 272,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 273,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 274,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 275,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 276,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 277,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 278,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 279,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 280,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 281,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 282,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "ItemId": 283,
+          "MaxAmount": 1000,
+          "MinAmount": 1000,
+          "Type": 35
+        },
+        "Weight": 1
+      }
+    ],
+    "Type": 21
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#96C9FF",
+  "ComponentStatsId": 3,
+  "DeviceId": 7,
+  "DisplayCategory": 2,
+  "Faction": 10,
+  "Icon": "pointdefense",
+  "Id": 90,
+  "ItemType": 1,
+  "Layout": "010111000",
+  "Level": 65,
+  "Name": "$FortificationSystem",
+  "PossibleModifications": [
+    2,
+    1
+  ]
+}

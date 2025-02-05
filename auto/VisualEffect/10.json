@@ -1,0 +1,12 @@
+{
+  "Elements": [
+    {
+      "GrowthRate": 1,
+      "Image": "cloud",
+      "Lifetime": 0.2,
+      "Type": 1
+    }
+  ],
+  "Id": 10,
+  "ItemType": 26
+}

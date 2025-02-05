@@ -1,0 +1,33 @@
+{
+  "Components": [
+    {
+      "ComponentId": 78,
+      "X": 1,
+      "Y": 1
+    },
+    {
+      "ComponentId": 197,
+      "KeyBinding": -1,
+      "Y": 1
+    },
+    {
+      "ComponentId": 198,
+      "KeyBinding": -1,
+      "X": 1,
+      "Y": 2
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 1
+    },
+    {
+      "ComponentId": 126,
+      "X": 1
+    }
+  ],
+  "Id": 186,
+  "ItemType": 8,
+  "ShipId": 89
+}

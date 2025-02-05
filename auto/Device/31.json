@@ -1,0 +1,13 @@
+{
+  "ActivationType": 2,
+  "Color": "#8080FF00",
+  "ControlButtonIcon": "controls_shield",
+  "Cooldown": 5,
+  "DeviceClass": 2,
+  "EnergyConsumption": 5,
+  "Id": 31,
+  "ItemType": 2,
+  "Power": 1,
+  "Prefab": 3,
+  "Size": 1.05
+}

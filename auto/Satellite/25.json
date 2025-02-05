@@ -1,0 +1,18 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 360,
+      "Image": "ironball",
+      "RotationSpeed": 720,
+      "Size": 1,
+      "WeaponClass": "L"
+    }
+  ],
+  "Id": 25,
+  "ItemType": 7,
+  "Layout": "0003300003333330033443303344443333444433033443300333333000033000",
+  "ModelImage": "ironball",
+  "ModelScale": 1.35,
+  "Name": "Big Iron Ball",
+  "SizeClass": 4
+}

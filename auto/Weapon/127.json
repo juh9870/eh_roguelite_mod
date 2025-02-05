@@ -1,0 +1,10 @@
+{
+  "ActivationType": 1,
+  "ControlButtonIcon": "controls_shot",
+  "EffectSize": 1,
+  "FireRate": 0.5,
+  "Id": 127,
+  "ItemType": 3,
+  "ShotSound": "hit_04",
+  "WeaponClass": 2
+}

@@ -1,0 +1,29 @@
+{
+  "AmmunitionId": 74,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#AECBD3",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 11,
+  "Icon": "afterburner1",
+  "Id": 166,
+  "ItemType": 1,
+  "Layout": "010010010",
+  "Level": 70,
+  "Name": "$RocketLauncher_M_2",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 74,
+  "WeaponSlotType": "M"
+}

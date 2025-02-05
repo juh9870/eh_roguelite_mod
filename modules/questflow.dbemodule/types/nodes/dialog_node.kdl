@@ -1,0 +1,3 @@
+enum title="Dialog FlowNode" tag="Type" {
+	object "ShowDialog" "eh:objects/quests/node_show_dialog" tag=10 hide_fields="Id,Actions"
+}

@@ -1,0 +1,16 @@
+{
+  "CellType": "2",
+  "Color": "#80C0FF",
+  "ComponentStatsId": 70,
+  "DisplayCategory": 6,
+  "Faction": 6,
+  "Icon": "inertial2",
+  "Id": 70,
+  "ItemType": 1,
+  "Layout": "010111111",
+  "Level": 10,
+  "Name": "Inertial_Nullifier",
+  "PossibleModifications": [
+    2
+  ]
+}

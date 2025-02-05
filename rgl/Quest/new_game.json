@@ -1,0 +1,101 @@
+{
+  "Id": 10001,
+  "ItemType": 15,
+  "Name": "New Game Startup",
+  "Nodes": [
+    {
+      "DefaultTransition": 10,
+      "Id": 1,
+      "Message": "QUEST rgl:new_game NODE #1",
+      "Transitions": [
+        {
+          "Requirement": {
+            "ItemId": 9999,
+            "MinValue": 1,
+            "Type": 25
+          },
+          "TargetNode": 4,
+          "Weight": 1
+        }
+      ],
+      "Type": 15
+    },
+    {
+      "Id": 4,
+      "Type": 42
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "Continue (technical limitation)",
+          "Requirement": {
+            "ItemId": 9999,
+            "MinValue": 1,
+            "Type": 25
+          },
+          "TargetNode": 4
+        },
+        {
+          "ButtonText": "$Continue",
+          "Requirement": {
+            "Requirements": [
+              {
+                "ItemId": 9999,
+                "MinValue": 1,
+                "Type": 25
+              }
+            ],
+            "Type": 3
+          },
+          "TargetNode": 11
+        }
+      ],
+      "Id": 10,
+      "Message": "Welcome to the <MODNAME>",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 12,
+      "Id": 11,
+      "Loot": 10011,
+      "Type": 35
+    },
+    {
+      "DefaultTransition": 13,
+      "Id": 12,
+      "Loot": 10008,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 14,
+      "Id": 13,
+      "Loot": 10009,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 15,
+      "Id": 14,
+      "Loot": 10010,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 16,
+      "Id": 15,
+      "Loot": 10002,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 4,
+      "Id": 17,
+      "Quest": 10002,
+      "Type": 43
+    },
+    {
+      "DefaultTransition": 17,
+      "Id": 16,
+      "Loot": 10001,
+      "Type": 35
+    }
+  ],
+  "Weight": 1
+}

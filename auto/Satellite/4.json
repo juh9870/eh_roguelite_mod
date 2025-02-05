@@ -1,0 +1,16 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1
+      },
+      "WeaponClass": "C"
+    }
+  ],
+  "Id": 4,
+  "ItemType": 7,
+  "Layout": "004400004400014410114411012210001100",
+  "ModelImage": "satellite2",
+  "ModelScale": 0.8,
+  "Name": "$Companion_2l"
+}

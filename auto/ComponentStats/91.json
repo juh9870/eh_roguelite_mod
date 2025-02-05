@@ -1,0 +1,8 @@
+{
+  "AutoAimingArc": 20,
+  "EnergyRechargeRate": -1,
+  "Id": 91,
+  "ItemType": 11,
+  "TurretTurnSpeed": 10,
+  "Weight": 10
+}

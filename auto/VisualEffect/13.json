@@ -1,0 +1,27 @@
+{
+  "Elements": [
+    {
+      "Color": "#000000",
+      "ColorMode": 1,
+      "Image": "star"
+    },
+    {
+      "ColorMode": 2,
+      "Image": "beam",
+      "Lifetime": 0.5,
+      "ParticleSize": 1.5,
+      "Quantity": 6,
+      "Size": 2,
+      "TurnRate": 1,
+      "Type": 8
+    },
+    {
+      "ColorMode": 2,
+      "GrowthRate": -1,
+      "Image": "cloud",
+      "Size": 2
+    }
+  ],
+  "Id": 13,
+  "ItemType": 26
+}

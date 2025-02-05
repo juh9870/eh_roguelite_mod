@@ -1,0 +1,5 @@
+enum title="Conditional FlowNode" tag="Type" {
+	object "Switch" "eh:objects/quests/node_switch" tag=15 hide_fields="Id,DefaultTransition,Transitions"
+	object "Random" "eh:objects/quests/node_random" tag=16 hide_fields="Id,DefaultTransition,Transitions"
+	object "Condition" "eh:objects/quests/node_condition" tag=17 hide_fields="Id,Transitions"
+}

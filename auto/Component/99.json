@@ -1,0 +1,23 @@
+{
+  "AmmunitionId": 16,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FFC0FF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 6,
+  "Icon": "energybeam1",
+  "Id": 99,
+  "ItemType": 1,
+  "Layout": "1010",
+  "Level": 45,
+  "Name": "$EnergySiphon_M",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 16,
+  "WeaponSlotType": "L"
+}

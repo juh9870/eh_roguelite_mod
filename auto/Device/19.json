@@ -1,0 +1,13 @@
+{
+  "Color": "#FF0000",
+  "ControlButtonIcon": "controls_gear",
+  "Cooldown": 20,
+  "DeviceClass": 10,
+  "EffectPrefab": "FlashAdditive",
+  "Id": 19,
+  "ItemType": 2,
+  "Power": 1,
+  "Range": 100,
+  "Size": 4,
+  "Sound": "launch_06"
+}

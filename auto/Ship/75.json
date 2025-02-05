@@ -1,0 +1,26 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 360,
+      "Offset": 0.2
+    }
+  ],
+  "EngineColor": "#40FFC300",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.3
+    }
+  ],
+  "IconImage": "fns3",
+  "IconScale": 0.9,
+  "Id": 75,
+  "ItemType": 6,
+  "Layout": "0011110001222210022222201124421111244211052222500522225000555500",
+  "ModelImage": "fns3",
+  "ModelScale": 1.5,
+  "Name": "$fn_Destroyer3",
+  "SizeClass": 1
+}

@@ -1,0 +1,24 @@
+{
+  "Body": {
+    "BulletPrefab": 13,
+    "Color": "#FF7EC2",
+    "EnergyCost": 20,
+    "Range": 35,
+    "Size": 1,
+    "Velocity": 30
+  },
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 20
+    },
+    {
+      "DamageType": 1,
+      "Power": 0.33,
+      "Type": 1
+    }
+  ],
+  "Id": 118,
+  "ImpactType": 1,
+  "ItemType": 25
+}

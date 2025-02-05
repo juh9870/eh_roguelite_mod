@@ -1,0 +1,14 @@
+{
+  "Id": 115,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "MaxValue": 4,
+        "MinValue": 2,
+        "Type": 202
+      }
+    ],
+    "Type": 3
+  }
+}

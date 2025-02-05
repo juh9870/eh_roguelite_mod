@@ -1,0 +1,8 @@
+{
+  "DisableRandomLoot": true,
+  "Id": 10000,
+  "InitialEnemyShips": "RANDOM(1,4)",
+  "ItemType": 30,
+  "ShipSelection": 3,
+  "TimeLimit": "30"
+}

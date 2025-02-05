@@ -1,0 +1,8 @@
+{
+  "ActivationType": 1,
+  "ControlButtonIcon": "controls_web",
+  "FireRate": 0.1,
+  "Id": 78,
+  "ItemType": 3,
+  "ShotEffectPrefab": "OrbAdditive"
+}

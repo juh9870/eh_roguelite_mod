@@ -1,0 +1,32 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "WeaponClass": "TS"
+    }
+  ],
+  "EngineColor": "#40B4FFB4",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5
+      },
+      "Size": 0.4
+    }
+  ],
+  "Faction": 4,
+  "Features": {
+    "Regeneration": true
+  },
+  "IconImage": "f4s4",
+  "IconScale": 1,
+  "Id": 38,
+  "ItemType": 6,
+  "Layout": "001000000000100001000000000100001100000001100000100101001000000114444411000000014444410000011334444433110000332222233000001332222233100011022222220110010115555511010000115505511000000100000001000000100000001000000000000000000",
+  "ModelImage": "f4s4",
+  "ModelScale": 2.2,
+  "Name": "$f4_Battleship",
+  "SizeClass": 3
+}

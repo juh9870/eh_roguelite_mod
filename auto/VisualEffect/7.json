@@ -1,0 +1,23 @@
+{
+  "Elements": [
+    {
+      "ColorMode": 2,
+      "Image": "star",
+      "Size": 2,
+      "Type": 1
+    },
+    {
+      "ColorMode": 2,
+      "GrowthRate": 0.5,
+      "Image": "CloudWhite",
+      "Lifetime": 0.5,
+      "Quantity": 3,
+      "Type": 3
+    },
+    {
+      "Type": 5
+    }
+  ],
+  "Id": 7,
+  "ItemType": 26
+}

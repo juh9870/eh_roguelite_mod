@@ -1,0 +1,16 @@
+{
+  "AmmunitionClass": 1,
+  "BulletPrefab": "Cloud",
+  "Color": "#C0DBFF00",
+  "Damage": 30,
+  "DamageType": 3,
+  "EnergyCost": 5,
+  "FireSound": "shot_07",
+  "HitSound": "shot_01",
+  "Id": 1,
+  "ItemType": 4,
+  "LifeTime": 30,
+  "Range": 15,
+  "Size": 1.5,
+  "Velocity": 5
+}

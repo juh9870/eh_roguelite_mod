@@ -1,0 +1,77 @@
+{
+  "Id": 10,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Type": 123
+      },
+      {
+        "Type": 117
+      },
+      {
+        "Nodes": [
+          {
+            "MaxValue": 0.5,
+            "Type": 115
+          },
+          {
+            "Type": 104
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Nodes": [
+          {
+            "MaxValue": 0.5,
+            "Type": 115
+          },
+          {
+            "Type": 131
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Nodes": [
+          {
+            "MinValue": 0.5,
+            "Type": 51
+          },
+          {
+            "ItemId": 125,
+            "Type": 1
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Nodes": [
+          {
+            "MaxValue": 0.5,
+            "Type": 115
+          },
+          {
+            "Cooldown": 0.1,
+            "Type": 111
+          },
+          {
+            "InRange": true,
+            "Type": 127
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "ItemId": 113,
+        "Type": 1
+      },
+      {
+        "DeviceClass": 2,
+        "Type": 114
+      }
+    ],
+    "Type": 4
+  }
+}

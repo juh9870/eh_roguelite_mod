@@ -1,0 +1,7 @@
+struct title="QuestFlow" {
+    string "Id"
+    string "StartNodeId"
+	list "Nodes" {
+		object "Item" "eh:objects/quests/node"
+	}
+}

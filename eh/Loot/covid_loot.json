@@ -1,0 +1,40 @@
+{
+  "Id": 21,
+  "ItemType": 16,
+  "Loot": {
+    "Items": [
+      {
+        "Loot": {
+          "ItemId": 16,
+          "MaxAmount": 50,
+          "MinAmount": 5,
+          "Type": 25
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "Type": 1,
+          "ValueRatio": 10
+        },
+        "Weight": 1
+      },
+      {
+        "Loot": {
+          "Factions": {
+            "List": [
+              16
+            ],
+            "Type": 2
+          },
+          "MaxAmount": 6,
+          "MinAmount": 2,
+          "Type": 10,
+          "ValueRatio": 2
+        },
+        "Weight": 1
+      }
+    ],
+    "Type": 21
+  }
+}

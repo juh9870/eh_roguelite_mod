@@ -1,0 +1,37 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 80,
+      "Image": "scavenger_arm",
+      "Position": {
+        "x": 0.45,
+        "y": -0.5
+      },
+      "Rotation": -60,
+      "Size": 1.5,
+      "WeaponClass": "L"
+    }
+  ],
+  "EngineColor": "#40FF7F00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Faction": 15,
+  "Features": {
+    "ArmorBonus": 0.5
+  },
+  "IconImage": "fs1",
+  "IconScale": 0.7,
+  "Id": 115,
+  "ItemType": 6,
+  "Layout": "003334400033334440033334440033333330033333330033333330033535330005555500000555000",
+  "ModelImage": "fs1",
+  "ModelScale": 1.2,
+  "Name": "$f15_Destroyer",
+  "SizeClass": 1
+}

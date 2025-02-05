@@ -1,0 +1,137 @@
+{
+  "Components": [
+    {
+      "ComponentId": 160,
+      "KeyBinding": 1,
+      "X": 10,
+      "Y": 12
+    },
+    {
+      "ComponentId": 160,
+      "KeyBinding": 1,
+      "X": 8,
+      "Y": 15
+    },
+    {
+      "ComponentId": 160,
+      "KeyBinding": 1,
+      "X": 6,
+      "Y": 10
+    },
+    {
+      "ComponentId": 76,
+      "KeyBinding": 1,
+      "X": 8,
+      "Y": 10
+    },
+    {
+      "ComponentId": 77,
+      "KeyBinding": 1,
+      "X": 8,
+      "Y": 13
+    },
+    {
+      "ComponentId": 77,
+      "KeyBinding": 1,
+      "X": 6,
+      "Y": 13
+    },
+    {
+      "ComponentId": 55,
+      "KeyBinding": 1,
+      "X": 13,
+      "Y": 15
+    },
+    {
+      "ComponentId": 55,
+      "KeyBinding": 1,
+      "X": 11,
+      "Y": 15
+    },
+    {
+      "ComponentId": 55,
+      "KeyBinding": 1,
+      "X": 3,
+      "Y": 15
+    },
+    {
+      "ComponentId": 55,
+      "KeyBinding": 1,
+      "X": 5,
+      "Y": 15
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": 1,
+      "X": 7,
+      "Y": 15
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": 1,
+      "X": 10,
+      "Y": 15
+    },
+    {
+      "ComponentId": 59,
+      "KeyBinding": 1,
+      "X": 10,
+      "Y": 17
+    },
+    {
+      "ComponentId": 59,
+      "KeyBinding": 1,
+      "X": 6,
+      "Y": 17
+    },
+    {
+      "ComponentId": 65,
+      "KeyBinding": 1,
+      "X": 3,
+      "Y": 12
+    },
+    {
+      "ComponentId": 10,
+      "KeyBinding": 1,
+      "X": 12,
+      "Y": 12
+    },
+    {
+      "ComponentId": 78,
+      "KeyBinding": 1,
+      "X": 8,
+      "Y": 15
+    },
+    {
+      "ComponentId": 78,
+      "KeyBinding": 1,
+      "X": 11,
+      "Y": 11
+    },
+    {
+      "ComponentId": 77,
+      "KeyBinding": 1,
+      "X": 9,
+      "Y": 8
+    },
+    {
+      "ComponentId": 77,
+      "KeyBinding": 1,
+      "X": 7,
+      "Y": 8
+    },
+    {
+      "ComponentId": 91,
+      "KeyBinding": 1,
+      "X": 8,
+      "Y": 4
+    },
+    {
+      "ComponentId": 250,
+      "X": 7
+    }
+  ],
+  "Id": 219,
+  "ItemType": 8,
+  "ShipId": 82
+}

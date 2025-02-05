@@ -1,0 +1,19 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#FFFFC0",
+  "ComponentStatsId": 50,
+  "DisplayCategory": 5,
+  "Faction": 5,
+  "Icon": "drone_power1",
+  "Id": 50,
+  "ItemType": 1,
+  "Layout": "1111",
+  "Level": 80,
+  "Name": "$DroneControlUnit_S",
+  "PossibleModifications": [
+    19,
+    1,
+    2
+  ]
+}

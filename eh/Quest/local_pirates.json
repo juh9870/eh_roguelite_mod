@@ -1,0 +1,24 @@
+{
+  "Id": 5,
+  "ItemType": 15,
+  "Nodes": [
+    {
+      "DefaultTransition": 2,
+      "Id": 1,
+      "Type": 30
+    },
+    {
+      "DefaultTransition": 3,
+      "Id": 2,
+      "Loot": 10000,
+      "Type": 35
+    },
+    {
+      "Id": 3,
+      "Type": 42
+    }
+  ],
+  "QuestType": 3,
+  "StartCondition": 2,
+  "Weight": 1
+}

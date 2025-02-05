@@ -1,0 +1,28 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1
+      }
+    }
+  ],
+  "EngineColor": "#40FFA4D6",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95
+      },
+      "Size": 0.3
+    }
+  ],
+  "IconImage": "fns5",
+  "IconScale": 0.8,
+  "Id": 70,
+  "ItemType": 6,
+  "Layout": "000004400000000014410000000014410000000034430000000033330000001033330100013033330310013333333310013333333310013035530310001055550100000055550000",
+  "ModelImage": "fns5",
+  "ModelScale": 1.6,
+  "Name": "$fn_Cruiser",
+  "ShipRarity": 3,
+  "SizeClass": 1
+}

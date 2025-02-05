@@ -1,0 +1,19 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#C0FFC0",
+  "ComponentStatsId": 191,
+  "DisplayCategory": 5,
+  "Faction": 2,
+  "Icon": "drone_power2",
+  "Id": 191,
+  "ItemType": 1,
+  "Layout": "110111111",
+  "Level": 80,
+  "Name": "$DroneDefense_M",
+  "PossibleModifications": [
+    18,
+    1,
+    2
+  ]
+}

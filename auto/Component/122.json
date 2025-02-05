@@ -1,0 +1,21 @@
+{
+  "AmmunitionId": 27,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FFFFC0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 2,
+  "Icon": "laser2",
+  "Id": 122,
+  "ItemType": 1,
+  "Layout": "1",
+  "Name": "$LaserBeam_S_1",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 27
+}

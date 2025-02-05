@@ -1,0 +1,30 @@
+{
+  "Body": {
+    "BulletPrefab": 8,
+    "CanBeDisarmed": true,
+    "Range": 10,
+    "Size": 0.5,
+    "Velocity": 10,
+    "Weight": 0.2
+  },
+  "Id": 110,
+  "ImpactType": 1,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "ColorMode": 2,
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1
+    },
+    {
+      "Ammunition": 109,
+      "AudioClip": "shot_13",
+      "ColorMode": 2,
+      "Condition": 2,
+      "EffectType": 2,
+      "Quantity": 1,
+      "RandomFactor": 1
+    }
+  ]
+}

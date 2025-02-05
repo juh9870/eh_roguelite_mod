@@ -1,0 +1,16 @@
+{
+  "ActivationType": 1,
+  "Color": "#FF6D5A",
+  "ControlButtonIcon": "controls_shield",
+  "DeviceClass": 5,
+  "EnergyConsumption": 1,
+  "Id": 8,
+  "ItemType": 2,
+  "ObjectPrefab": "Shield",
+  "Offset": {
+    "x": 0.4
+  },
+  "PassiveEnergyConsumption": 2,
+  "Power": 10,
+  "Size": 1.5
+}

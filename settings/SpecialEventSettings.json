@@ -1,0 +1,9 @@
+{
+  "EasterQuest": 10,
+  "EnableEasterEvent": true,
+  "EnableHalloweenEvent": true,
+  "HalloweenDaysAfter": 1,
+  "HalloweenDaysBefore": 5,
+  "ItemType": 106,
+  "XmasCombatRules": 8
+}

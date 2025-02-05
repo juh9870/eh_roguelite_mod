@@ -1,0 +1,117 @@
+{
+  "Id": 106,
+  "ItemType": 15,
+  "Level": 200,
+  "Name": "$Quest_ScavengerShip",
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 8
+        }
+      ],
+      "Id": 1,
+      "Message": "$Scavengers_2_Intro",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Action_UseArtifact",
+          "Requirement": {
+            "ItemId": 30,
+            "Type": 25
+          },
+          "TargetNode": 9
+        },
+        {
+          "ButtonText": "$Action_Ignore",
+          "TargetNode": 7
+        }
+      ],
+      "Character": 7,
+      "Id": 8,
+      "Message": "$Scavengers_2_Message",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Action_Accept",
+          "TargetNode": 2
+        },
+        {
+          "ButtonText": "$Action_Decline",
+          "TargetNode": 7
+        }
+      ],
+      "Character": 7,
+      "Id": 9,
+      "Loot": 18,
+      "Message": "$Scavengers_2_Message2",
+      "Type": 10
+    },
+    {
+      "Id": 2,
+      "Transitions": [
+        {
+          "Requirement": {
+            "Requirements": [
+              {
+                "ItemId": 18,
+                "Type": 27
+              },
+              {
+                "Type": 30
+              }
+            ],
+            "Type": 2
+          },
+          "TargetNode": 3
+        }
+      ],
+      "Type": 17
+    },
+    {
+      "DefaultTransition": 4,
+      "Id": 3,
+      "Loot": 18,
+      "Type": 36
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 5
+        }
+      ],
+      "Character": 7,
+      "Id": 4,
+      "Loot": 19,
+      "Message": "$Scavengers_2_Completed",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 6,
+      "Id": 5,
+      "Loot": 19,
+      "Type": 35
+    },
+    {
+      "Id": 6,
+      "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 41
+    }
+  ],
+  "QuestType": 2,
+  "Requirement": {
+    "ItemId": 30,
+    "Type": 25
+  },
+  "StartCondition": 1,
+  "Weight": 0.1
+}

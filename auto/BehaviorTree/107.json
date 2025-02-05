@@ -1,0 +1,49 @@
+{
+  "Id": 107,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Color": "#C080C0FF",
+        "Text": "$Muttering1",
+        "Type": 300
+      },
+      {
+        "Color": "#C080C0FF",
+        "Text": "$Muttering2",
+        "Type": 300
+      },
+      {
+        "Color": "#C080C0FF",
+        "Text": "$Muttering3",
+        "Type": 300
+      },
+      {
+        "Color": "#C080C0FF",
+        "Text": "$Muttering4",
+        "Type": 300
+      },
+      {
+        "Color": "#C080C0FF",
+        "Text": "$Muttering5",
+        "Type": 300
+      },
+      {
+        "Type": 0
+      },
+      {
+        "Type": 0
+      },
+      {
+        "Type": 0
+      },
+      {
+        "Type": 0
+      },
+      {
+        "Type": 0
+      }
+    ],
+    "Type": 5
+  }
+}

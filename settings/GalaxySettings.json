@@ -1,0 +1,21 @@
+{
+  "AbandonedStarbaseFaction": 9,
+  "ArenaCombatRules": 6,
+  "CaptureStarbaseQuest": 9,
+  "ChallengeCombatRules": 7,
+  "DefaultStarbaseBuild": 192,
+  "EnemyLevel": "MAX(distance - 100, 0) / 4",
+  "FlagshipCombatRules": 5,
+  "ItemType": 101,
+  "MaxEnemyShipsLevel": 500,
+  "QuickCombatRules": 2,
+  "StarbaseCombatRules": 4,
+  "StartingInventory": 12,
+  "StartingShipBuilds": [
+    39,
+    45,
+    51
+  ],
+  "SupporterPackShip": 92,
+  "SurvivalCombatRules": 3
+}

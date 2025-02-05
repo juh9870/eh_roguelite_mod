@@ -1,0 +1,36 @@
+{
+  "Body": {
+    "BulletPrefab": 19,
+    "Color": "#FF4117",
+    "EnergyCost": 40,
+    "Length": 10,
+    "Range": 50,
+    "Size": 3,
+    "Velocity": 100
+  },
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 50
+    },
+    {
+      "DamageType": 1,
+      "Power": 50
+    }
+  ],
+  "Id": 124,
+  "ImpactType": 1,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "AudioClip": "hit_01",
+      "Condition": 3,
+      "Cooldown": 0.1,
+      "EffectType": 4,
+      "Lifetime": 0.5,
+      "OncePerCollision": true,
+      "Size": 2,
+      "VisualEffect": 2
+    }
+  ]
+}

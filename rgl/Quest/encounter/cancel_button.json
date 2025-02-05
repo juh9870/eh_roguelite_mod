@@ -1,0 +1,34 @@
+{
+  "Id": 10004,
+  "ItemType": 15,
+  "Name": "Loadout Done",
+  "Nodes": [
+    {
+      "DefaultTransition": 10,
+      "Id": 1,
+      "Loot": 10012,
+      "Type": 35
+    },
+    {
+      "Id": 4,
+      "Type": 42
+    },
+    {
+      "Id": 10,
+      "Message": "Cancel this quest or move to any star to continue your journey",
+      "Transitions": [
+        {
+          "Requirement": {
+            "ItemId": 10000,
+            "MinValue": 1,
+            "Type": 25
+          },
+          "TargetNode": 4,
+          "Weight": 1
+        }
+      ],
+      "Type": 17
+    }
+  ],
+  "Weight": 1
+}

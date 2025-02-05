@@ -1,0 +1,12 @@
+{
+  "Color": "#404040",
+  "Hidden": true,
+  "HideFromMerchants": true,
+  "HideResearchTree": true,
+  "Id": 15,
+  "ItemType": 14,
+  "Name": "$Faction15",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "WanderingShipsDistance": 100
+}

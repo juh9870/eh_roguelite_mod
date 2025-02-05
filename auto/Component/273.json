@@ -1,0 +1,27 @@
+{
+  "AmmunitionId": 126,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#84BFFF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Icon": "rocket2x4",
+  "Id": 273,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 250,
+  "Name": "$EmpBomb",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 125,
+  "WeaponSlotType": "M"
+}

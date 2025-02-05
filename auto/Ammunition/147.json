@@ -1,0 +1,28 @@
+{
+  "Body": {
+    "BulletPrefab": 1,
+    "CanBeDisarmed": true,
+    "Color": "#FF9494",
+    "EnergyCost": 5,
+    "Range": 60,
+    "Size": 1,
+    "Velocity": 30,
+    "Weight": 0.05
+  },
+  "Effects": [
+    {
+      "Power": 15
+    }
+  ],
+  "Id": 147,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "AudioClip": "hit_01",
+      "Condition": 3,
+      "EffectType": 1,
+      "Lifetime": 0.2,
+      "VisualEffect": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "DisableSkillBonuses": true,
+  "ExpCondition": 2,
+  "Id": 2,
+  "ItemType": 30,
+  "LootCondition": 2,
+  "TimeLimit": "60"
+}

@@ -1,0 +1,115 @@
+{
+  "AvailableForPlayer": false,
+  "Components": [
+    {
+      "ComponentId": 74,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 4
+    },
+    {
+      "ComponentId": 57,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 10
+    },
+    {
+      "ComponentId": 57,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 10
+    },
+    {
+      "ComponentId": 63,
+      "KeyBinding": -1,
+      "X": 7,
+      "Y": 5
+    },
+    {
+      "ComponentId": 63,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 5
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 9,
+      "Y": 5
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 1,
+      "Y": 5
+    },
+    {
+      "ComponentId": 69,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 6
+    },
+    {
+      "ComponentId": 69,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 6
+    },
+    {
+      "ComponentId": 69,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 7
+    },
+    {
+      "ComponentId": 69,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 7
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 7
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 9
+    },
+    {
+      "ComponentId": 161,
+      "X": 4
+    },
+    {
+      "ComponentId": 80,
+      "KeyBinding": 1,
+      "X": 6,
+      "Y": 4
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 3
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 3
+    },
+    {
+      "ComponentId": 78,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 4
+    }
+  ],
+  "DifficultyClass": 2,
+  "Id": 171,
+  "ItemType": 8,
+  "ShipId": 51
+}

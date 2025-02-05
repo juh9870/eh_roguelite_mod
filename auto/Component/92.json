@@ -1,0 +1,20 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "ComponentStatsId": 3,
+  "DeviceId": 32,
+  "DisplayCategory": 6,
+  "Faction": 4,
+  "Icon": "teleporter",
+  "Id": 92,
+  "ItemType": 1,
+  "Layout": "010111010",
+  "Level": 35,
+  "Name": "$Teleporter",
+  "PossibleModifications": [
+    2,
+    7,
+    1,
+    6
+  ]
+}

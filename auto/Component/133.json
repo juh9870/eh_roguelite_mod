@@ -1,0 +1,29 @@
+{
+  "AmmunitionId": 41,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#C0C0C0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 2,
+  "Icon": "missile1",
+  "Id": 133,
+  "ItemType": 1,
+  "Layout": "1100",
+  "Level": 25,
+  "Name": "$MissileLauncher_M_1",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 41,
+  "WeaponSlotType": "M"
+}

@@ -1,0 +1,41 @@
+{
+  "Id": 112,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Type": 103
+      },
+      {
+        "InRange": true,
+        "MinValue": 0.5,
+        "Type": 100
+      },
+      {
+        "Nodes": [
+          {
+            "ItemId": 141,
+            "Type": 1
+          },
+          {
+            "Nodes": [
+              {
+                "Type": 115
+              },
+              {
+                "ItemId": 116,
+                "Type": 1
+              }
+            ],
+            "Type": 3
+          }
+        ],
+        "Type": 4
+      }
+    ],
+    "Requirement": {
+      "Type": 11
+    },
+    "Type": 3
+  }
+}

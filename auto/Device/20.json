@@ -1,0 +1,15 @@
+{
+  "ControlButtonIcon": "controls_gear",
+  "Cooldown": 5,
+  "DeviceClass": 22,
+  "Id": 20,
+  "ItemType": 2,
+  "Offset": {
+    "x": 0.45,
+    "y": 0.35
+  },
+  "PassiveEnergyConsumption": 5,
+  "Power": 0.3,
+  "Prefab": 1,
+  "Size": 10
+}

@@ -1,0 +1,25 @@
+{
+  "AmmunitionId": 3,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#F0FFFF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 4,
+  "Icon": "doom1",
+  "Id": 138,
+  "ItemType": 1,
+  "Layout": "111111111",
+  "Level": 70,
+  "Name": "$AntiMatterBomb_L_1",
+  "PossibleModifications": [
+    14,
+    6,
+    16,
+    5,
+    2,
+    1
+  ],
+  "WeaponId": 3,
+  "WeaponSlotType": "S"
+}

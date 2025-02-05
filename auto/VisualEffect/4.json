@@ -1,0 +1,38 @@
+{
+  "Elements": [
+    {
+      "ColorMode": 2,
+      "Image": "wave",
+      "Size": 6,
+      "Type": 2
+    },
+    {
+      "ColorMode": 2,
+      "Image": "star",
+      "Size": 4,
+      "Type": 1
+    },
+    {
+      "ColorMode": 2,
+      "Image": "CloudWhite",
+      "Quantity": 3,
+      "Size": 1.5,
+      "Type": 4
+    },
+    {
+      "Color": "#80202020",
+      "ColorMode": 1,
+      "Image": "CloudWhite",
+      "Lifetime": 3,
+      "Quantity": 3,
+      "Size": 2,
+      "Type": 3
+    },
+    {
+      "Size": 4,
+      "Type": 5
+    }
+  ],
+  "Id": 4,
+  "ItemType": 26
+}

@@ -1,0 +1,33 @@
+{
+  "Body": {
+    "BulletPrefab": 4,
+    "Color": "#FF4070",
+    "EnergyCost": 100,
+    "Range": 60,
+    "Size": 2,
+    "Velocity": 30,
+    "Weight": 0.1
+  },
+  "Id": 142,
+  "ItemType": 25,
+  "Triggers": [
+    {
+      "Ammunition": 143,
+      "AudioClip": "hit_01",
+      "Condition": 2,
+      "EffectType": 2,
+      "OffsetX": "0",
+      "PowerMultiplier": 250,
+      "Rotation": "0",
+      "Size": 30
+    },
+    {
+      "Condition": 8,
+      "Cooldown": 0.1,
+      "EffectType": 4,
+      "Lifetime": 1.5,
+      "Size": 3,
+      "VisualEffect": 11
+    }
+  ]
+}

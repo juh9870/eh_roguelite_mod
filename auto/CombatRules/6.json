@@ -1,0 +1,11 @@
+{
+  "DisableAsteroids": true,
+  "DisableRandomLoot": true,
+  "DisableSkillBonuses": true,
+  "ExpCondition": 2,
+  "Id": 6,
+  "ItemType": 30,
+  "ShipSelection": 2,
+  "TimeLimit": "90",
+  "TimeOutMode": 2
+}

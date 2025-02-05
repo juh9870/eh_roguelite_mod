@@ -1,0 +1,28 @@
+{
+  "AmmunitionId": 64,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#FFDCC0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 1,
+  "Icon": "gun7",
+  "Id": 113,
+  "ItemType": 1,
+  "Layout": "010010010",
+  "Level": 75,
+  "Name": "$PulseCannon_M_2",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 64,
+  "WeaponSlotType": "C"
+}

@@ -1,0 +1,28 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      }
+    }
+  ],
+  "EngineColor": "#40FFBABA",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    }
+  ],
+  "Faction": 2,
+  "IconImage": "drone2",
+  "IconScale": 0.5,
+  "Id": 87,
+  "ItemType": 6,
+  "Layout": "040242515",
+  "ModelImage": "drone2",
+  "ModelScale": 0.4,
+  "Name": "Drone",
+  "ShipType": 1
+}

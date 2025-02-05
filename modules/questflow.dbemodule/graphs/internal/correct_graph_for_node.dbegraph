@@ -1,0 +1,307 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 2
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 2
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 2,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 5
+        }
+      ],
+      [
+        {
+          "node": 5,
+          "output": 0
+        },
+        {
+          "input": 1,
+          "node": 7
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 2,
+          "node": 2
+        },
+        ""
+      ],
+      [
+        {
+          "input": 0,
+          "node": 7
+        },
+        false
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "cc3ced82-2495-4873-9249-8c39d0e182e5",
+        "name": "Variant",
+        "ty": "String"
+      },
+      {
+        "id": "555087c2-85bf-4153-a438-91cd9fdf0b42",
+        "name": "Current Node",
+        "ty": "String"
+      },
+      {
+        "id": "508379c6-5831-494d-b616-fe13b02e3a84",
+        "name": "Condition",
+        "ty": "Boolean"
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "cc3ced82-2495-4873-9249-8c39d0e182e5",
+              "555087c2-85bf-4153-a438-91cd9fdf0b42",
+              "508379c6-5831-494d-b616-fe13b02e3a84"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -504,
+            "y": -34.5
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": []
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 324,
+            "y": -34.5
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "format": "Node {variant} is not allowed in {flow} flow. {hint}",
+            "keys": [
+              "variant",
+              "flow",
+              "hint"
+            ]
+          },
+          "id": "string_fmt",
+          "open": true,
+          "pos": {
+            "x": -269,
+            "y": -7.5
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "f512e815-824b-48b3-8c36-ec844e67bea3"
+            ],
+            "kind": "End",
+            "node": [
+              [],
+              []
+            ],
+            "region": "5e8e14a4-833c-498d-a0a8-67ee941b090c"
+          },
+          "id": "conditional",
+          "open": true,
+          "pos": {
+            "x": -168,
+            "y": 185.5
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "Start",
+            "node": [
+              [
+                "Boolean"
+              ],
+              []
+            ],
+            "region": "5e8e14a4-833c-498d-a0a8-67ee941b090c"
+          },
+          "id": "conditional",
+          "open": true,
+          "pos": {
+            "x": -355,
+            "y": 205.5
+          }
+        }
+      ],
+      [
+        5,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "Start",
+            "node": [
+              [
+                "String"
+              ],
+              [
+                "String"
+              ]
+            ],
+            "region": "3fdc6bf0-fa0d-42cf-8a99-8d626148c232"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": -5,
+            "y": 195.5
+          }
+        }
+      ],
+      [
+        6,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "End",
+            "node": [
+              [],
+              []
+            ],
+            "region": "3fdc6bf0-fa0d-42cf-8a99-8d626148c232"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": 440,
+            "y": 192.5
+          }
+        }
+      ],
+      [
+        7,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Boolean",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert",
+          "open": true,
+          "pos": {
+            "x": 194,
+            "y": 162.5
+          }
+        }
+      ]
+    ],
+    "outputs": [],
+    "regions": [
+      {
+        "color": null,
+        "id": "fb5f884e-d422-430f-a6ee-8b5c34d1e504",
+        "variables": []
+      },
+      {
+        "color": null,
+        "id": "5e8e14a4-833c-498d-a0a8-67ee941b090c",
+        "variables": [
+          {
+            "id": "f512e815-824b-48b3-8c36-ec844e67bea3",
+            "name": "value",
+            "ty": "String"
+          }
+        ]
+      },
+      {
+        "color": null,
+        "id": "da7695ea-22d3-4356-9426-4cef47246e60",
+        "variables": []
+      },
+      {
+        "color": null,
+        "id": "3fdc6bf0-fa0d-42cf-8a99-8d626148c232",
+        "variables": []
+      }
+    ]
+  },
+  "id": "e7511695-e109-40f5-b560-19671387dbba",
+  "is_node_group": true,
+  "name": "[Internal] Report correct graph for node",
+  "version": "V1"
+}

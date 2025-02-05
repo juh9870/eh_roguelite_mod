@@ -1,0 +1,39 @@
+{
+  "Components": [
+    {
+      "ComponentId": 78,
+      "X": 1,
+      "Y": 1
+    },
+    {
+      "ComponentId": 67,
+      "X": 1,
+      "Y": 2
+    },
+    {
+      "ComponentId": 72,
+      "X": 2,
+      "Y": 1
+    },
+    {
+      "ComponentId": 72,
+      "X": 2
+    },
+    {
+      "ComponentId": 72
+    },
+    {
+      "ComponentId": 72,
+      "Y": 1
+    },
+    {
+      "ComponentId": 128,
+      "KeyBinding": 3,
+      "X": 1
+    }
+  ],
+  "DifficultyClass": 1,
+  "Id": 12,
+  "ItemType": 9,
+  "SatelliteId": 9
+}

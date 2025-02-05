@@ -1,0 +1,5 @@
+enum title="Attack FlowNode" tag="Type" {
+	object "AttackFleet" "eh:objects/quests/node_attack_fleet" tag=20 hide_fields="Id,DefaultTransition,FailureTransition"
+	object "AttackOccupants" "eh:objects/quests/node_attack_occupants" tag=21 hide_fields="Id,DefaultTransition,FailureTransition"
+	object "AttackStarbase" "eh:objects/quests/node_attack_starbase" tag=22 hide_fields="Id,DefaultTransition,FailureTransition"
+}

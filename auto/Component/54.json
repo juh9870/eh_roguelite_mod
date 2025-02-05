@@ -1,0 +1,20 @@
+{
+  "Availability": 1,
+  "CellType": "2",
+  "Color": "#C0C0C0",
+  "ComponentStatsId": 3,
+  "DeviceId": 4,
+  "DisplayCategory": 6,
+  "Faction": 7,
+  "Icon": "jammer",
+  "Id": 54,
+  "ItemType": 1,
+  "Layout": "1100",
+  "Level": 25,
+  "Name": "$EcmJammer",
+  "PossibleModifications": [
+    6,
+    2,
+    1
+  ]
+}

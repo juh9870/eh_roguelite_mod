@@ -1,0 +1,28 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1
+      },
+      "WeaponClass": "S"
+    }
+  ],
+  "EngineColor": "#40F0D2B4",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.15
+    }
+  ],
+  "Faction": 11,
+  "IconImage": "f9s1",
+  "IconScale": 0.5,
+  "Id": 59,
+  "ItemType": 6,
+  "Layout": "000141000000242000000242000000242000000121000001222100000121000000555000000505000",
+  "ModelImage": "f9s1",
+  "ModelScale": 1.2,
+  "Name": "$f9_Scout"
+}

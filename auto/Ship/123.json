@@ -1,0 +1,44 @@
+{
+  "Barrels": [
+    {
+      "AutoAimingArc": 60,
+      "Image": "devourer_turret",
+      "Offset": 0.8,
+      "Size": 0.2,
+      "WeaponClass": "L"
+    },
+    {
+      "AutoAimingArc": 60,
+      "Image": "devourer_turret",
+      "Offset": 0.8,
+      "Rotation": 120,
+      "Size": 0.2,
+      "WeaponClass": "L"
+    },
+    {
+      "AutoAimingArc": 60,
+      "Image": "devourer_turret",
+      "Offset": 0.8,
+      "Rotation": -120,
+      "Size": 0.2,
+      "WeaponClass": "L"
+    }
+  ],
+  "EngineColor": "#407F7F7F",
+  "Faction": 16,
+  "Features": {
+    "BuiltinDevices": [
+      18
+    ],
+    "Regeneration": true,
+    "ShipWeightBonus": -0.5
+  },
+  "IconScale": 1,
+  "Id": 123,
+  "ItemType": 6,
+  "Layout": "000000444000000000011444110000000111444111000001112222211100011122222221110011222222222110112222222222211112222222222211112222222222211444222222222444444222222222444444122555221444000115555511000000015555510000000000555000000",
+  "ModelImage": "devourer",
+  "ModelScale": 5,
+  "Name": "$f16_Battleship",
+  "SizeClass": 3
+}

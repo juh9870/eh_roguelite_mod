@@ -1,0 +1,11 @@
+{
+  "Elements": [
+    {
+      "Image": "star",
+      "Lifetime": 0.2,
+      "Type": 1
+    }
+  ],
+  "Id": 1,
+  "ItemType": 26
+}

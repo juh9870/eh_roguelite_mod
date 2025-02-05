@@ -1,0 +1,26 @@
+{
+  "AmmunitionId": 85,
+  "CellType": "4",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": -1,
+  "Icon": "missile3",
+  "Id": 88,
+  "ItemType": 1,
+  "Layout": "1",
+  "Name": "TutorialMissile",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 85,
+  "WeaponSlotType": "M"
+}

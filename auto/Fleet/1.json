@@ -1,0 +1,10 @@
+{
+  "Id": 1,
+  "ItemType": 18,
+  "NoRandomShips": true,
+  "SpecificShips": [
+    214,
+    215,
+    216
+  ]
+}

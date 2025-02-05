@@ -1,0 +1,111 @@
+{
+  "Id": 21,
+  "ItemType": 15,
+  "Name": "$Mission_Resources",
+  "Nodes": [
+    {
+      "DefaultTransition": 3,
+      "Id": 1,
+      "Transitions": [
+        {
+          "Requirement": {
+            "ItemId": 8,
+            "Type": 27
+          },
+          "TargetNode": 2
+        }
+      ],
+      "Type": 15
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Actions_GiveResources",
+          "TargetNode": 5
+        },
+        {
+          "ButtonText": "$Action_Decline",
+          "TargetNode": 9
+        }
+      ],
+      "Character": 3,
+      "Id": 2,
+      "Loot": 8,
+      "Message": "$Mission_Resources_Intro",
+      "Type": 10
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Action_Accept",
+          "TargetNode": 4
+        },
+        {
+          "ButtonText": "$Action_Decline",
+          "TargetNode": 9
+        }
+      ],
+      "Character": 3,
+      "Id": 3,
+      "Loot": 8,
+      "Message": "$Mission_Resources_Intro",
+      "Type": 10
+    },
+    {
+      "Id": 4,
+      "Transitions": [
+        {
+          "Requirement": {
+            "Requirements": [
+              {
+                "ItemId": 8,
+                "Type": 27
+              },
+              {
+                "Type": 30
+              }
+            ],
+            "Type": 2
+          },
+          "TargetNode": 5
+        }
+      ],
+      "Type": 17
+    },
+    {
+      "Actions": [
+        {
+          "ButtonText": "$Continue",
+          "TargetNode": 6
+        }
+      ],
+      "Character": 3,
+      "Id": 5,
+      "Loot": 8,
+      "Message": "$Mission_Resources_Completed",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 7,
+      "Id": 6,
+      "Loot": 8,
+      "Type": 36
+    },
+    {
+      "DefaultTransition": 8,
+      "Id": 7,
+      "Type": 56,
+      "Value": 10
+    },
+    {
+      "Id": 8,
+      "Type": 40
+    },
+    {
+      "Id": 9,
+      "Type": 42
+    }
+  ],
+  "StartCondition": 3,
+  "Weight": 1
+}

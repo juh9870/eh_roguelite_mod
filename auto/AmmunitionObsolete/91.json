@@ -1,0 +1,24 @@
+{
+  "AmmunitionClass": 13,
+  "AreaOfEffect": 4,
+  "BulletPrefab": "Rocket",
+  "Color": "#FF80FF",
+  "CoupledAmmunitionId": 18,
+  "Damage": 2.5,
+  "DamageType": 2,
+  "EnergyCost": 10,
+  "FireSound": "shot_01",
+  "HitPoints": 1,
+  "HitSound": "hit_09",
+  "Id": 91,
+  "Impulse": 0.05,
+  "InitialPosition": {
+    "x": 0.5
+  },
+  "ItemType": 4,
+  "LifeTime": 5,
+  "Range": 20,
+  "Recoil": 0.01,
+  "Size": 0.4,
+  "Velocity": 15
+}

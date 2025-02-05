@@ -1,0 +1,32 @@
+{
+  "Id": 3,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Type": 130
+      },
+      {
+        "ItemId": 103,
+        "Type": 1
+      },
+      {
+        "ItemId": 144,
+        "Type": 1
+      },
+      {
+        "ItemId": 105,
+        "Type": 1
+      },
+      {
+        "ItemId": 112,
+        "Type": 1
+      },
+      {
+        "ItemId": 115,
+        "Type": 1
+      }
+    ],
+    "Type": 2
+  }
+}

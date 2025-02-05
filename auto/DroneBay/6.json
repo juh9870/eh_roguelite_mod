@@ -1,0 +1,16 @@
+{
+  "ActivationType": 2,
+  "BuildExtraCycles": 7,
+  "Capacity": 1,
+  "ControlButtonIcon": "controls_drone",
+  "DamageMultiplier": 1,
+  "DefenseMultiplier": 1,
+  "EnergyConsumption": 5,
+  "Id": 6,
+  "ItemType": 5,
+  "LaunchEffectPrefab": "OrbAdditive",
+  "LaunchSound": "launch_08",
+  "PassiveEnergyConsumption": 6,
+  "Range": 60,
+  "SpeedMultiplier": 1
+}

@@ -1,0 +1,17 @@
+{
+  "Components": [
+    {
+      "ComponentId": 86,
+      "X": 1,
+      "Y": 2
+    },
+    {
+      "ComponentId": 78,
+      "X": 1,
+      "Y": 1
+    }
+  ],
+  "Id": 214,
+  "ItemType": 8,
+  "ShipId": 79
+}

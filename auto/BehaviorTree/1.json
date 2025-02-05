@@ -1,0 +1,17 @@
+{
+  "Id": 1,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "ItemId": 17,
+        "Type": 1
+      },
+      {
+        "ItemId": 14,
+        "Type": 1
+      }
+    ],
+    "Type": 2
+  }
+}

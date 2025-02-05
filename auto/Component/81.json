@@ -1,0 +1,28 @@
+{
+  "AmmunitionId": 144,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#BCA2FF",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 13,
+  "Icon": "gun7",
+  "Id": 81,
+  "ItemType": 1,
+  "Layout": "0110011001100110",
+  "Level": 200,
+  "Name": "$RailGun_T_1",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 70,
+  "WeaponSlotType": "C"
+}

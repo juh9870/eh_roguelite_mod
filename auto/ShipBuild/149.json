@@ -1,0 +1,148 @@
+{
+  "AvailableForPlayer": false,
+  "Components": [
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 6
+    },
+    {
+      "ComponentId": 56,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 6
+    },
+    {
+      "ComponentId": 57,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 8
+    },
+    {
+      "ComponentId": 57,
+      "KeyBinding": -1,
+      "X": 4,
+      "Y": 7
+    },
+    {
+      "ComponentId": 57,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 8
+    },
+    {
+      "ComponentId": 74,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 4
+    },
+    {
+      "ComponentId": 63,
+      "KeyBinding": -1,
+      "X": 3
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 1
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 5
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 7
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 6
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 6,
+      "Y": 5
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 7
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 6
+    },
+    {
+      "ComponentId": 64,
+      "KeyBinding": -1,
+      "X": 2,
+      "Y": 5
+    },
+    {
+      "ComponentId": 66,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 2
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 3,
+      "Y": 4
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 4
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 3
+    },
+    {
+      "ComponentId": 67,
+      "KeyBinding": -1,
+      "X": 5,
+      "Y": 2
+    },
+    {
+      "ComponentId": 99,
+      "X": 1,
+      "Y": 7
+    },
+    {
+      "BarrelId": 1,
+      "ComponentId": 101,
+      "X": 7,
+      "Y": 7
+    },
+    {
+      "BarrelId": 1,
+      "ComponentId": 103,
+      "X": 6,
+      "Y": 4
+    },
+    {
+      "ComponentId": 104,
+      "Y": 4
+    }
+  ],
+  "DifficultyClass": 1,
+  "Id": 149,
+  "ItemType": 8,
+  "ShipId": 60
+}

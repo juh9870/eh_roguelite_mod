@@ -1,0 +1,15 @@
+{
+  "Availability": 1,
+  "ComponentStatsId": 67,
+  "DisplayCategory": 3,
+  "Faction": -1,
+  "Icon": "fueltank11",
+  "Id": 67,
+  "ItemType": 1,
+  "Layout": "1",
+  "Name": "$FuelCell_S",
+  "PossibleModifications": [
+    9,
+    1
+  ]
+}

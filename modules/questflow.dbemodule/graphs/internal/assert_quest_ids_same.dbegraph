@@ -1,0 +1,208 @@
+{
+  "graph": {
+    "edges": [
+      [
+        {
+          "node": 0,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 3
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 1
+        },
+        {
+          "input": 0,
+          "node": 1
+        }
+      ],
+      [
+        {
+          "node": 0,
+          "output": 1
+        },
+        {
+          "input": 1,
+          "node": 4
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 0,
+          "node": 4
+        }
+      ]
+    ],
+    "inline_values": [
+      [
+        {
+          "input": 2,
+          "node": 4
+        },
+        "Different quests can't be mixed"
+      ]
+    ],
+    "inputs": [
+      {
+        "id": "f4a15aa8-01a2-4c84-9b28-1e054817cc66",
+        "name": "Quest Id",
+        "ty": {
+          "Object": {
+            "ident": "sys:optional<Item=string>"
+          }
+        }
+      },
+      {
+        "id": "75c06735-bf41-4c3c-9951-470d215cb6d2",
+        "name": "Another Quest Id",
+        "ty": "String"
+      }
+    ],
+    "nodes": [
+      [
+        0,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "f4a15aa8-01a2-4c84-9b28-1e054817cc66",
+              "75c06735-bf41-4c3c-9951-470d215cb6d2"
+            ]
+          },
+          "id": "group_input",
+          "open": true,
+          "pos": {
+            "x": -414.5,
+            "y": -51
+          }
+        }
+      ],
+      [
+        1,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [
+              "415dbb4e-895b-4917-9522-f82f895fee7f"
+            ]
+          },
+          "id": "group_output",
+          "open": true,
+          "pos": {
+            "x": 428.5,
+            "y": -48
+          }
+        }
+      ],
+      [
+        2,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "End",
+            "node": [
+              [],
+              []
+            ],
+            "region": "cd181e11-ebff-493f-acd4-7d4080896fd3"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": 271.5,
+            "y": -113
+          }
+        }
+      ],
+      [
+        3,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "ids": [],
+            "kind": "Start",
+            "node": [
+              [
+                "String"
+              ],
+              [
+                "String"
+              ]
+            ],
+            "region": "cd181e11-ebff-493f-acd4-7d4080896fd3"
+          },
+          "id": "option_map",
+          "open": true,
+          "pos": {
+            "x": -215.5,
+            "y": -162
+          }
+        }
+      ],
+      [
+        4,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": [
+            [
+              "Unknown",
+              "Unknown",
+              "String"
+            ],
+            []
+          ],
+          "id": "assert_equals",
+          "open": true,
+          "pos": {
+            "x": -3.5,
+            "y": -241
+          }
+        }
+      ]
+    ],
+    "outputs": [
+      {
+        "id": "415dbb4e-895b-4917-9522-f82f895fee7f",
+        "name": "Quest Id",
+        "ty": "String"
+      }
+    ],
+    "regions": [
+      {
+        "color": null,
+        "id": "c9b84e8b-91b7-4f3a-a65a-0516687ce495",
+        "variables": [
+          {
+            "id": "95aef30a-a41c-4b08-bf30-066ffb3bef9d",
+            "name": "value",
+            "ty": "String"
+          }
+        ]
+      },
+      {
+        "color": null,
+        "id": "cd181e11-ebff-493f-acd4-7d4080896fd3",
+        "variables": []
+      }
+    ]
+  },
+  "id": "68451c9b-4f82-4110-8cf3-259dfa43b482",
+  "is_node_group": true,
+  "name": "[Internal] Check Quest IDs in a loop",
+  "version": "V1"
+}

@@ -1,0 +1,21 @@
+{
+  "AmmunitionId": 71,
+  "CellType": "4",
+  "Color": "#808080",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 11,
+  "Icon": "laser3",
+  "Id": 171,
+  "ItemType": 1,
+  "Layout": "010010010",
+  "Name": "$RepairBeam_M_1",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 71,
+  "WeaponSlotType": "L"
+}

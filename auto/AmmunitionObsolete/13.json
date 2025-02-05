@@ -1,0 +1,18 @@
+{
+  "AmmunitionClass": 7,
+  "AreaOfEffect": 7,
+  "BulletPrefab": "Bomb",
+  "Color": "#80FFFF",
+  "Damage": 20,
+  "DamageType": 1,
+  "EnergyCost": 20,
+  "FireSound": "shot_02",
+  "HitSound": "hit_01",
+  "Id": 13,
+  "Impulse": 0.1,
+  "ItemType": 4,
+  "LifeTime": 0.5,
+  "Range": 30,
+  "Size": 0.7,
+  "Velocity": 15
+}

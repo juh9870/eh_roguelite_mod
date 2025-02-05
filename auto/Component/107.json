@@ -1,0 +1,28 @@
+{
+  "AmmunitionId": 45,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#C0FFC0",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 3,
+  "Icon": "gun6",
+  "Id": 107,
+  "ItemType": 1,
+  "Layout": "110110110",
+  "Level": 65,
+  "Name": "$NeutronBlaster_L_1",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 45,
+  "WeaponSlotType": "C"
+}

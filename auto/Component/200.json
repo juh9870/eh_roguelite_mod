@@ -1,0 +1,24 @@
+{
+  "Availability": 2,
+  "CellType": "1",
+  "Color": "#CBDFFF",
+  "ComponentStatsId": 2,
+  "DisplayCategory": 5,
+  "DroneBayId": 6,
+  "DroneId": 299,
+  "Faction": 17,
+  "Icon": "hangar",
+  "Id": 200,
+  "ItemType": 1,
+  "Layout": "0000011111111111111111111",
+  "Level": 250,
+  "Name": "$DroneBay_L_17",
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}

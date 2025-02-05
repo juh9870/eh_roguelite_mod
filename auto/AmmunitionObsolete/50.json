@@ -1,0 +1,15 @@
+{
+  "AmmunitionClass": 5,
+  "BulletPrefab": "Flame",
+  "Color": "#80FFE2BA",
+  "Damage": 30,
+  "DamageType": 2,
+  "EnergyCost": 1,
+  "FireSound": "shot_07",
+  "Id": 50,
+  "ItemType": 4,
+  "LifeTime": 1,
+  "Range": 5,
+  "Size": 2,
+  "Velocity": 5
+}

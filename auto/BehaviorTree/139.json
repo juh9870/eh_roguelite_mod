@@ -1,0 +1,32 @@
+{
+  "Id": 139,
+  "ItemType": 28,
+  "RootNode": {
+    "Nodes": [
+      {
+        "Type": 103
+      },
+      {
+        "Nodes": [
+          {
+            "Type": 129
+          },
+          {
+            "MinValue": 0.5,
+            "NoDrones": true,
+            "Type": 100
+          }
+        ],
+        "Type": 2
+      },
+      {
+        "ItemId": 136,
+        "Type": 1
+      }
+    ],
+    "Requirement": {
+      "Type": 11
+    },
+    "Type": 3
+  }
+}

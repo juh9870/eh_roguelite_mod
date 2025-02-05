@@ -1,0 +1,16 @@
+{
+  "ActivationType": 1,
+  "Color": "#40FFFFFF",
+  "ControlButtonIcon": "controls_ghost",
+  "Cooldown": 5,
+  "DeviceClass": 3,
+  "EffectPrefab": "FlashAdditive",
+  "EnergyConsumption": 6,
+  "Id": 3,
+  "ItemType": 2,
+  "Lifetime": 60,
+  "PassiveEnergyConsumption": 2,
+  "Power": 1,
+  "Size": 3,
+  "Sound": "shot_12"
+}

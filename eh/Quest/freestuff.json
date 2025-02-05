@@ -1,0 +1,30 @@
+{
+  "Id": 2,
+  "ItemType": 15,
+  "Nodes": [
+    {
+      "Actions": [
+        {
+          "ButtonText": "$ACTION_Continue",
+          "TargetNode": 2
+        }
+      ],
+      "Id": 1,
+      "Loot": 3,
+      "Message": "$Beacon_FreeStuff",
+      "Type": 10
+    },
+    {
+      "DefaultTransition": 3,
+      "Id": 2,
+      "Loot": 3,
+      "Type": 35
+    },
+    {
+      "Id": 3,
+      "Type": 40
+    }
+  ],
+  "StartCondition": 1,
+  "Weight": 1
+}

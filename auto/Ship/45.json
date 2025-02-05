@@ -1,0 +1,49 @@
+{
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.55,
+        "y": 0.95
+      },
+      "Rotation": 130,
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.55,
+        "y": -0.95
+      },
+      "Rotation": 230,
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -1
+      },
+      "Rotation": 180,
+      "WeaponClass": "C"
+    }
+  ],
+  "EngineColor": "#10A0FFA0",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.1
+      },
+      "Size": 0.5
+    }
+  ],
+  "Faction": 6,
+  "Features": {
+    "Regeneration": true
+  },
+  "IconImage": "f6s1_2",
+  "IconScale": 0.7,
+  "Id": 45,
+  "ItemType": 6,
+  "Layout": "000222000001222100001222100004525400004545400004040400004040400000040000000000000",
+  "ModelImage": "f6s1_2",
+  "ModelScale": 1,
+  "Name": "$f6_Scout2",
+  "ShipRarity": 1
+}

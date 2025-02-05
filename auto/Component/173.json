@@ -1,0 +1,29 @@
+{
+  "AmmunitionId": 43,
+  "Availability": 1,
+  "CellType": "4",
+  "Color": "#DBB1B1",
+  "ComponentStatsId": 1,
+  "DisplayCategory": 1,
+  "Faction": 2,
+  "Icon": "rocket1",
+  "Id": 173,
+  "ItemType": 1,
+  "Layout": "1010",
+  "Level": 40,
+  "Name": "$MissileLauncher_M_3",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ],
+  "WeaponId": 43,
+  "WeaponSlotType": "M"
+}
