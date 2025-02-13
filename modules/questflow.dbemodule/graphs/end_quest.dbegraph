@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -223,7 +224,7 @@
           "input": 2,
           "node": 9
         },
-        "The first node in the qest must be the last to be added to the flow "
+        "The first node in the quest must be the last to be added to the flow "
       ],
       [
         {
@@ -682,6 +683,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "c1edb671-f3c1-480e-a5c7-940ccfc1d727",
   "is_node_group": true,
   "name": "QuestFlow End",

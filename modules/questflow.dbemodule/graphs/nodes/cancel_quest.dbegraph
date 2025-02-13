@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -172,6 +173,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "532657f5-8580-42ac-9db8-d45d158f68c0",
   "is_node_group": true,
   "name": "Cancel Quest",

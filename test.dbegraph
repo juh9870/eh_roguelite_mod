@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -473,6 +474,10 @@
           "color_scheme": null,
           "custom_title": null,
           "data": {
+            "has_connection": [
+              true,
+              true
+            ],
             "item": {
               "Object": {
                 "ident": "questflow:node_action"
@@ -566,6 +571,7 @@
     "outputs": [],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "38688d64-5a97-430f-96f9-0c9874351719",
   "is_node_group": false,
   "name": "",

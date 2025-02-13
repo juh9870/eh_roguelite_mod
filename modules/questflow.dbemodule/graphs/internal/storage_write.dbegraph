@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -212,6 +213,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "e7d717d2-27a3-479e-90e5-2f676086d2d1",
   "is_node_group": true,
   "name": "[Internal] QuestFlow Storage Write",

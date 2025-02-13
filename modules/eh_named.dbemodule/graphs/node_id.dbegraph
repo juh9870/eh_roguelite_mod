@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -195,6 +196,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "3c527845-732d-4318-976d-46c45b6be545",
   "is_node_group": true,
   "name": "Quest Node Id",

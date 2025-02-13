@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -243,6 +244,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "a79671e1-1b6c-4130-b7de-f841ddada99f",
   "is_node_group": true,
   "name": "[Internal] QuestFlow Push Single Node",

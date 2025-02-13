@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -736,6 +737,7 @@
       }
     ]
   },
+  "hide_from_search": false,
   "id": "bacc27ee-4885-4329-9e46-b3930d803075",
   "is_node_group": true,
   "name": "Combat Node",

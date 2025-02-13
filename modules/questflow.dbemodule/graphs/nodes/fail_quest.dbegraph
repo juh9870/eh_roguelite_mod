@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -172,6 +173,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "c77948f3-70cc-4b3d-94e5-4b9c241cdde6",
   "is_node_group": true,
   "name": "Fail Quest",

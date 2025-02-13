@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -468,6 +469,11 @@
           "color_scheme": null,
           "custom_title": null,
           "data": {
+            "has_connection": [
+              true,
+              true,
+              true
+            ],
             "item": {
               "Object": {
                 "ident": "eh:objects/quests/node"
@@ -686,6 +692,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "e911882b-ed1f-48ad-9942-c69dd6e2a35f",
   "is_node_group": true,
   "name": "QuestFlow Start",

@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -96,6 +97,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "b72f6cdc-5e2a-44be-bfdb-5aba63281989",
   "is_node_group": true,
   "name": "[Internal] QuestFlow Storage Key",

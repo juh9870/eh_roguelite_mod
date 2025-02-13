@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -238,6 +239,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "cafc4eae-2223-473c-b0f5-76433455beba",
   "is_node_group": true,
   "name": "[Internal] QuestFlow Storage Read",

@@ -1,4 +1,5 @@
 {
+  "categories": [],
   "graph": {
     "edges": [
       [
@@ -159,6 +160,7 @@
     ],
     "regions": []
   },
+  "hide_from_search": false,
   "id": "6de61a76-80ef-44db-941d-8d105efb2794",
   "is_node_group": true,
   "name": "Complete Quest",
