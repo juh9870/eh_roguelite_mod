@@ -13,7 +13,11 @@
     ],
     "values": {
       "START": 1,
-      "combat": 2
+      "combat": 2,
+      "dialog": 3,
+      "removals_0": 4,
+      "removals_1": 5,
+      "removals_2": 6
     }
   }
 }

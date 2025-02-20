@@ -49,6 +49,16 @@
         },
         {
           "input": 0,
+          "node": 6
+        }
+      ],
+      [
+        {
+          "node": 3,
+          "output": 0
+        },
+        {
+          "input": 1,
           "node": 9
         }
       ],
@@ -58,8 +68,8 @@
           "output": 0
         },
         {
-          "input": 0,
-          "node": 7
+          "input": 5,
+          "node": 5
         }
       ],
       [
@@ -69,7 +79,7 @@
         },
         {
           "input": 0,
-          "node": 3
+          "node": 7
         }
       ],
       [
@@ -78,7 +88,7 @@
           "output": 0
         },
         {
-          "input": 0,
+          "input": 8,
           "node": 5
         }
       ],
@@ -89,7 +99,7 @@
         },
         {
           "input": 0,
-          "node": 6
+          "node": 8
         }
       ],
       [
@@ -98,18 +108,8 @@
           "output": 0
         },
         {
-          "input": 1,
-          "node": 6
-        }
-      ],
-      [
-        {
-          "node": 9,
-          "output": 0
-        },
-        {
           "input": 0,
-          "node": 8
+          "node": 3
         }
       ]
     ],
@@ -156,43 +156,43 @@
       ],
       [
         {
-          "input": 1,
+          "input": 0,
           "node": 5
         },
-        "START"
+        "dialog"
       ],
       [
         {
-          "input": 2,
+          "input": 1,
           "node": 5
         },
         "An enemy is approaching"
       ],
       [
         {
-          "input": 3,
+          "input": 2,
           "node": 5
         },
         10000
       ],
       [
         {
-          "input": 4,
+          "input": 3,
           "node": 5
         },
         null
       ],
       [
         {
-          "input": 5,
+          "input": 4,
           "node": 5
         },
         3
       ],
       [
         {
-          "input": 1,
-          "node": 7
+          "input": 6,
+          "node": 5
         },
         {
           "Type": 0
@@ -200,15 +200,15 @@
       ],
       [
         {
-          "input": 2,
-          "node": 7
+          "input": 7,
+          "node": 5
         },
         "Fight!"
       ],
       [
         {
-          "input": 1,
-          "node": 8
+          "input": 9,
+          "node": 5
         },
         {
           "Type": 0
@@ -216,10 +216,61 @@
       ],
       [
         {
+          "input": 10,
+          "node": 5
+        },
+        "Flee"
+      ],
+      [
+        {
+          "input": 1,
+          "node": 7
+        },
+        "removals"
+      ],
+      [
+        {
+          "input": 2,
+          "node": 7
+        },
+        [
+          {
+            "Loot": 10008,
+            "Type": 36
+          },
+          {
+            "Loot": 10009,
+            "Type": 36
+          },
+          {
+            "Loot": 10010,
+            "Type": 36
+          }
+        ]
+      ],
+      [
+        {
+          "input": 1,
+          "node": 8
+        },
+        "START"
+      ],
+      [
+        {
           "input": 2,
           "node": 8
         },
-        "Flee"
+        {
+          "Loot": 10,
+          "Type": 36
+        }
+      ],
+      [
+        {
+          "input": 0,
+          "node": 9
+        },
+        null
       ]
     ],
     "inputs": [],
@@ -313,8 +364,8 @@
           "id": "subgraph",
           "open": true,
           "pos": {
-            "x": -965.73974609375,
-            "y": -156.49037170410156
+            "x": -959.533935546875,
+            "y": -134.1493377685547
           }
         }
       ],
@@ -355,8 +406,8 @@
           "id": "subgraph",
           "open": true,
           "pos": {
-            "x": 290.15179443359375,
-            "y": -352.2021484375
+            "x": 1085.817626953125,
+            "y": -317.63714599609375
           }
         }
       ],
@@ -405,8 +456,8 @@
           "id": "subgraph",
           "open": true,
           "pos": {
-            "x": -371,
-            "y": -204.25
+            "x": -390.3565368652344,
+            "y": -216.85226440429688
           }
         }
       ],
@@ -416,127 +467,606 @@
           "color_scheme": null,
           "custom_title": null,
           "data": {
-            "graph_id": "488ab899-6992-4095-8d2c-9362985295b5",
-            "input_types": [
-              {
-                "List": {
-                  "id": "List<Item=questflow:node_action>"
-                }
-              },
-              "String",
-              "String",
-              {
-                "Object": {
-                  "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/fleet'>>"
-                }
-              },
-              {
-                "Object": {
-                  "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/loot'>>"
-                }
-              },
-              {
-                "Object": {
-                  "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/character'>>"
-                }
-              }
-            ],
+            "connected_inputs": {
+              "05c40d1f-dee0-4462-8895-dff3bd581f10": false,
+              "4f20c79f-f0fa-416a-843b-3dbb4418db79": true,
+              "61506dd4-e11e-49f1-8b9d-9f6f92b0d229": false,
+              "75fa2db5-c9ae-417f-b274-9ee8d732a755": false,
+              "79bf13e7-586e-47e9-86fe-f5a67d0475d3": false,
+              "7c6f7d7b-0f6c-48c3-9c4c-942c64e4d188": false,
+              "95bb44de-238d-4ccb-9625-c930dd4d3b35": false,
+              "990f838d-33c3-4c49-b6a2-0952b20e26b9": false,
+              "c67668e0-e0e4-483c-92d9-2a7a86aad4ab": true,
+              "cac7ba85-a2db-46ca-a14f-1b0b6fce0056": false,
+              "f9e39db4-7410-4374-b5f8-7f3038c97fce": false,
+              "fb09359d-a15a-4b6b-b8aa-41b7d7c93f0f": false
+            },
             "inputs": [
-              "dbc111f0-8fa7-41a7-a6ee-0d9309eb4d8f",
-              "2a115026-dddb-48df-be3d-e3dbd570c5f0",
-              "49759a8f-5b8f-4572-883a-599600baad32",
-              "0641724d-7d2f-4c42-95d7-c0e77af07472",
-              "8a036f1e-4781-4912-836e-2f0243a8362a",
-              "17662155-ca5d-4fdd-b666-e9fcbef99070"
-            ],
-            "output_types": [
-              {
-                "Object": {
-                  "ident": "questflow:node_id"
-                }
-              }
+              "75fa2db5-c9ae-417f-b274-9ee8d732a755",
+              "7c6f7d7b-0f6c-48c3-9c4c-942c64e4d188",
+              "fb09359d-a15a-4b6b-b8aa-41b7d7c93f0f",
+              "cac7ba85-a2db-46ca-a14f-1b0b6fce0056",
+              "95bb44de-238d-4ccb-9625-c930dd4d3b35",
+              "c67668e0-e0e4-483c-92d9-2a7a86aad4ab",
+              "f9e39db4-7410-4374-b5f8-7f3038c97fce",
+              "61506dd4-e11e-49f1-8b9d-9f6f92b0d229",
+              "4f20c79f-f0fa-416a-843b-3dbb4418db79",
+              "05c40d1f-dee0-4462-8895-dff3bd581f10",
+              "990f838d-33c3-4c49-b6a2-0952b20e26b9",
+              "79bf13e7-586e-47e9-86fe-f5a67d0475d3"
             ],
             "outputs": [
-              "284c2508-63f1-441b-a840-c41d9093e894"
-            ]
+              "657f766b-24a3-4b7f-a146-6ad073cb24f0"
+            ],
+            "tree": {
+              "graph": {
+                "edges": [
+                  [
+                    {
+                      "node": 0,
+                      "output": 0
+                    },
+                    {
+                      "input": 0,
+                      "node": 2
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 0
+                    },
+                    {
+                      "input": 0,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 1
+                    },
+                    {
+                      "input": 1,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 2
+                    },
+                    {
+                      "input": 2,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 3
+                    },
+                    {
+                      "input": 3,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 4
+                    },
+                    {
+                      "input": 4,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 5
+                    },
+                    {
+                      "input": 0,
+                      "node": 4
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 6
+                    },
+                    {
+                      "input": 1,
+                      "node": 4
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 7
+                    },
+                    {
+                      "input": 2,
+                      "node": 4
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 8
+                    },
+                    {
+                      "input": 0,
+                      "node": 5
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 9
+                    },
+                    {
+                      "input": 1,
+                      "node": 5
+                    }
+                  ],
+                  [
+                    {
+                      "node": 1,
+                      "output": 10
+                    },
+                    {
+                      "input": 2,
+                      "node": 5
+                    }
+                  ],
+                  [
+                    {
+                      "node": 3,
+                      "output": 0
+                    },
+                    {
+                      "input": 5,
+                      "node": 0
+                    }
+                  ],
+                  [
+                    {
+                      "node": 4,
+                      "output": 0
+                    },
+                    {
+                      "input": 0,
+                      "node": 3
+                    }
+                  ],
+                  [
+                    {
+                      "node": 5,
+                      "output": 0
+                    },
+                    {
+                      "input": 1,
+                      "node": 3
+                    }
+                  ]
+                ],
+                "inline_values": [],
+                "inputs": [
+                  {
+                    "id": "75fa2db5-c9ae-417f-b274-9ee8d732a755",
+                    "name": "Node Id",
+                    "ty": "String"
+                  },
+                  {
+                    "id": "7c6f7d7b-0f6c-48c3-9c4c-942c64e4d188",
+                    "name": "Message",
+                    "ty": "String"
+                  },
+                  {
+                    "id": "fb09359d-a15a-4b6b-b8aa-41b7d7c93f0f",
+                    "name": "Enemy",
+                    "ty": {
+                      "Object": {
+                        "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/fleet'>>"
+                      }
+                    }
+                  },
+                  {
+                    "id": "cac7ba85-a2db-46ca-a14f-1b0b6fce0056",
+                    "name": "Loot",
+                    "ty": {
+                      "Object": {
+                        "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/loot'>>"
+                      }
+                    }
+                  },
+                  {
+                    "id": "95bb44de-238d-4ccb-9625-c930dd4d3b35",
+                    "name": "Character",
+                    "ty": {
+                      "Object": {
+                        "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/character'>>"
+                      }
+                    }
+                  },
+                  {
+                    "id": "c67668e0-e0e4-483c-92d9-2a7a86aad4ab",
+                    "name": "TargetNode",
+                    "ty": {
+                      "Object": {
+                        "ident": "questflow:node_id"
+                      }
+                    }
+                  },
+                  {
+                    "id": "f9e39db4-7410-4374-b5f8-7f3038c97fce",
+                    "name": "Requirement",
+                    "ty": {
+                      "Object": {
+                        "ident": "eh:objects/quests/requirement"
+                      }
+                    }
+                  },
+                  {
+                    "id": "61506dd4-e11e-49f1-8b9d-9f6f92b0d229",
+                    "name": "ButtonText",
+                    "ty": "String"
+                  },
+                  {
+                    "id": "4f20c79f-f0fa-416a-843b-3dbb4418db79",
+                    "name": "TargetNode",
+                    "ty": {
+                      "Object": {
+                        "ident": "questflow:node_id"
+                      }
+                    }
+                  },
+                  {
+                    "id": "05c40d1f-dee0-4462-8895-dff3bd581f10",
+                    "name": "Requirement",
+                    "ty": {
+                      "Object": {
+                        "ident": "eh:objects/quests/requirement"
+                      }
+                    }
+                  },
+                  {
+                    "id": "990f838d-33c3-4c49-b6a2-0952b20e26b9",
+                    "name": "ButtonText",
+                    "ty": "String"
+                  },
+                  {
+                    "id": "79bf13e7-586e-47e9-86fe-f5a67d0475d3",
+                    "name": "+",
+                    "ty": {
+                      "Object": {
+                        "ident": "questflow:node_action"
+                      }
+                    }
+                  }
+                ],
+                "nodes": [
+                  [
+                    0,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "graph_id": "488ab899-6992-4095-8d2c-9362985295b5",
+                        "input_types": [
+                          "String",
+                          "String",
+                          {
+                            "Object": {
+                              "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/fleet'>>"
+                            }
+                          },
+                          {
+                            "Object": {
+                              "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/loot'>>"
+                            }
+                          },
+                          {
+                            "Object": {
+                              "ident": "sys:optional<Item=sys:ids/numeric_ref<Id='eh:objects/quests/character'>>"
+                            }
+                          },
+                          {
+                            "List": {
+                              "id": "List<Item=questflow:node_action>"
+                            }
+                          }
+                        ],
+                        "inputs": [
+                          "2a115026-dddb-48df-be3d-e3dbd570c5f0",
+                          "49759a8f-5b8f-4572-883a-599600baad32",
+                          "0641724d-7d2f-4c42-95d7-c0e77af07472",
+                          "8a036f1e-4781-4912-836e-2f0243a8362a",
+                          "17662155-ca5d-4fdd-b666-e9fcbef99070",
+                          "dbc111f0-8fa7-41a7-a6ee-0d9309eb4d8f"
+                        ],
+                        "output_types": [
+                          {
+                            "Object": {
+                              "ident": "questflow:node_id"
+                            }
+                          }
+                        ],
+                        "outputs": [
+                          "284c2508-63f1-441b-a840-c41d9093e894"
+                        ]
+                      },
+                      "id": "subgraph",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  [
+                    1,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "ids": [
+                          "75fa2db5-c9ae-417f-b274-9ee8d732a755",
+                          "7c6f7d7b-0f6c-48c3-9c4c-942c64e4d188",
+                          "fb09359d-a15a-4b6b-b8aa-41b7d7c93f0f",
+                          "cac7ba85-a2db-46ca-a14f-1b0b6fce0056",
+                          "95bb44de-238d-4ccb-9625-c930dd4d3b35",
+                          "c67668e0-e0e4-483c-92d9-2a7a86aad4ab",
+                          "f9e39db4-7410-4374-b5f8-7f3038c97fce",
+                          "61506dd4-e11e-49f1-8b9d-9f6f92b0d229",
+                          "4f20c79f-f0fa-416a-843b-3dbb4418db79",
+                          "05c40d1f-dee0-4462-8895-dff3bd581f10",
+                          "990f838d-33c3-4c49-b6a2-0952b20e26b9",
+                          "79bf13e7-586e-47e9-86fe-f5a67d0475d3"
+                        ]
+                      },
+                      "id": "group_input",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  [
+                    2,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "ids": [
+                          "657f766b-24a3-4b7f-a146-6ad073cb24f0"
+                        ]
+                      },
+                      "id": "group_output",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  [
+                    3,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "has_connection": [
+                          true,
+                          true
+                        ],
+                        "item": {
+                          "Object": {
+                            "ident": "questflow:node_action"
+                          }
+                        },
+                        "items_count": 2
+                      },
+                      "id": "list",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  [
+                    4,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "fields": [
+                          "TargetNode",
+                          "Requirement",
+                          "ButtonText"
+                        ],
+                        "id": "questflow:node_action"
+                      },
+                      "id": "struct_node",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  [
+                    5,
+                    {
+                      "color_scheme": null,
+                      "custom_title": null,
+                      "data": {
+                        "fields": [
+                          "TargetNode",
+                          "Requirement",
+                          "ButtonText"
+                        ],
+                        "id": "questflow:node_action"
+                      },
+                      "id": "struct_node",
+                      "open": true,
+                      "pos": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ]
+                ],
+                "outputs": [
+                  {
+                    "id": "657f766b-24a3-4b7f-a146-6ad073cb24f0",
+                    "name": "Node Id",
+                    "ty": {
+                      "Object": {
+                        "ident": "questflow:node_id"
+                      }
+                    }
+                  }
+                ],
+                "regions": []
+              },
+              "input_ids": [
+                [
+                  {
+                    "input": 0,
+                    "node": 0
+                  },
+                  "75fa2db5-c9ae-417f-b274-9ee8d732a755"
+                ],
+                [
+                  {
+                    "input": 1,
+                    "node": 0
+                  },
+                  "7c6f7d7b-0f6c-48c3-9c4c-942c64e4d188"
+                ],
+                [
+                  {
+                    "input": 2,
+                    "node": 0
+                  },
+                  "fb09359d-a15a-4b6b-b8aa-41b7d7c93f0f"
+                ],
+                [
+                  {
+                    "input": 3,
+                    "node": 0
+                  },
+                  "cac7ba85-a2db-46ca-a14f-1b0b6fce0056"
+                ],
+                [
+                  {
+                    "input": 4,
+                    "node": 0
+                  },
+                  "95bb44de-238d-4ccb-9625-c930dd4d3b35"
+                ],
+                [
+                  {
+                    "input": 2,
+                    "node": 3
+                  },
+                  "79bf13e7-586e-47e9-86fe-f5a67d0475d3"
+                ],
+                [
+                  {
+                    "input": 0,
+                    "node": 4
+                  },
+                  "c67668e0-e0e4-483c-92d9-2a7a86aad4ab"
+                ],
+                [
+                  {
+                    "input": 1,
+                    "node": 4
+                  },
+                  "f9e39db4-7410-4374-b5f8-7f3038c97fce"
+                ],
+                [
+                  {
+                    "input": 2,
+                    "node": 4
+                  },
+                  "61506dd4-e11e-49f1-8b9d-9f6f92b0d229"
+                ],
+                [
+                  {
+                    "input": 0,
+                    "node": 5
+                  },
+                  "4f20c79f-f0fa-416a-843b-3dbb4418db79"
+                ],
+                [
+                  {
+                    "input": 1,
+                    "node": 5
+                  },
+                  "05c40d1f-dee0-4462-8895-dff3bd581f10"
+                ],
+                [
+                  {
+                    "input": 2,
+                    "node": 5
+                  },
+                  "990f838d-33c3-4c49-b6a2-0952b20e26b9"
+                ]
+              ],
+              "root": 0,
+              "tree": {
+                "0": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  {
+                    "node": 3,
+                    "output": 0
+                  }
+                ],
+                "3": [
+                  {
+                    "node": 4,
+                    "output": 0
+                  },
+                  {
+                    "node": 5,
+                    "output": 0
+                  },
+                  null
+                ],
+                "4": [
+                  null,
+                  null,
+                  null
+                ],
+                "5": [
+                  null,
+                  null,
+                  null
+                ]
+              }
+            }
           },
-          "id": "subgraph",
+          "id": "tree_subgraph",
           "open": true,
           "pos": {
-            "x": -46.552146911621094,
-            "y": -354.05059814453125
+            "x": -62.68735122680664,
+            "y": -321.78009033203125
           }
         }
       ],
       [
         6,
-        {
-          "color_scheme": null,
-          "custom_title": null,
-          "data": {
-            "has_connection": [
-              true,
-              true
-            ],
-            "item": {
-              "Object": {
-                "ident": "questflow:node_action"
-              }
-            },
-            "items_count": 2
-          },
-          "id": "list",
-          "open": false,
-          "pos": {
-            "x": -47.23685073852539,
-            "y": -125.8520736694336
-          }
-        }
-      ],
-      [
-        7,
-        {
-          "color_scheme": null,
-          "custom_title": null,
-          "data": {
-            "fields": [
-              "TargetNode",
-              "Requirement",
-              "ButtonText"
-            ],
-            "id": "questflow:node_action"
-          },
-          "id": "struct_node",
-          "open": true,
-          "pos": {
-            "x": -53.41999816894531,
-            "y": -89.53068542480469
-          }
-        }
-      ],
-      [
-        8,
-        {
-          "color_scheme": null,
-          "custom_title": null,
-          "data": {
-            "fields": [
-              "TargetNode",
-              "Requirement",
-              "ButtonText"
-            ],
-            "id": "questflow:node_action"
-          },
-          "id": "struct_node",
-          "open": true,
-          "pos": {
-            "x": -57.16683578491211,
-            "y": 41.9067497253418
-          }
-        }
-      ],
-      [
-        9,
         {
           "color_scheme": null,
           "custom_title": null,
@@ -564,6 +1094,108 @@
           "pos": {
             "x": -673.855712890625,
             "y": 73.06645202636719
+          }
+        }
+      ],
+      [
+        7,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "a88b7a0d-98a2-4554-9f66-dcec46c3dea2",
+            "input_types": [
+              {
+                "Object": {
+                  "ident": "questflow:node_id"
+                }
+              },
+              "String",
+              {
+                "List": {
+                  "id": "List<Item=questflow:nodes/simple_node>"
+                }
+              }
+            ],
+            "inputs": [
+              "cb6e9833-df2a-4b5b-b418-550073a3ed15",
+              "dce65cfc-e86d-472b-b121-f8c915002e43",
+              "aa93f71e-0fbf-4cfe-9102-59a56846d713"
+            ],
+            "output_types": [
+              {
+                "Object": {
+                  "ident": "questflow:node_id"
+                }
+              }
+            ],
+            "outputs": [
+              "900b5781-33f8-440a-abc3-4cd318367d61"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 272.475341796875,
+            "y": -321.6506042480469
+          }
+        }
+      ],
+      [
+        8,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": {
+            "graph_id": "0c48b95d-4c22-49db-a971-6f63b48b2986",
+            "input_types": [
+              {
+                "Object": {
+                  "ident": "questflow:node_id"
+                }
+              },
+              "String",
+              {
+                "Object": {
+                  "ident": "questflow:nodes/simple_node"
+                }
+              }
+            ],
+            "inputs": [
+              "22344b77-8f20-4de9-8717-c545d522750d",
+              "2c66d30c-5b80-4509-b54a-d776462b9a15",
+              "8bfcc8e7-61dd-49d0-a7b6-fff6e0bcaa14"
+            ],
+            "output_types": [
+              {
+                "Object": {
+                  "ident": "questflow:node_id"
+                }
+              }
+            ],
+            "outputs": [
+              "29e04a1a-0a2a-4901-9fcc-5f09baa89f38"
+            ]
+          },
+          "id": "subgraph",
+          "open": true,
+          "pos": {
+            "x": 734.75341796875,
+            "y": -320.404541015625
+          }
+        }
+      ],
+      [
+        9,
+        {
+          "color_scheme": null,
+          "custom_title": null,
+          "data": null,
+          "id": "write_dbevalue",
+          "open": true,
+          "pos": {
+            "x": 1476.1424560546875,
+            "y": -273.0553283691406
           }
         }
       ]
